@@ -46,6 +46,134 @@ Para avanzar se requiere:
 * actualización en STATE_FILE
 
 ---
+# METODOLOGÍA DE APRENDIZAJE OPERACIONAL
+
+## PRINCIPIO GENERAL
+
+Este roadmap está diseñado para un profesional con experiencia industrial real.
+
+El aprendizaje se basa en:
+
+* proyectos
+* resolución de problemas
+* construcción de activos reutilizables
+* automatización
+* análisis operacional
+
+No se basa en:
+
+* consumo de videos
+* cursos extensos
+* teoría académica
+* resúmenes largos
+* documentación excesiva
+
+---
+
+## DISTRIBUCIÓN DE ESFUERZO
+
+Cada sesión debe aproximarse a:
+
+80% ejecución
+
+15% comprensión conceptual
+
+5% documentación
+
+---
+
+## ESTRUCTURA DE CADA SESIÓN
+
+Toda sesión debe producir un resultado tangible.
+
+### Paso 1
+
+Concepto mínimo necesario.
+
+Máximo necesario para ejecutar.
+
+---
+
+### Paso 2
+
+Implementación.
+
+Construir.
+
+Modificar.
+
+Automatizar.
+
+Analizar.
+
+---
+
+### Paso 3
+
+Validación.
+
+Verificar resultado.
+
+Identificar errores.
+
+Corregir.
+
+---
+
+### Paso 4
+
+Registro breve.
+
+Registrar únicamente:
+
+* qué se hizo
+* qué se creó
+* qué se aprendió
+* próximo paso
+
+---
+
+## REGLA DE EVIDENCIA
+
+El progreso se mide por activos construidos.
+
+Ejemplos:
+
+* consultas Power Query
+* dashboards
+* modelos Power BI
+* análisis KPI
+* documentación técnica mínima
+* automatizaciones
+
+No se mide por:
+
+* videos vistos
+* horas estudiadas
+* capítulos completados
+* cursos terminados
+
+---
+
+## REGLA DE DOCUMENTACIÓN MÍNIMA
+
+Toda documentación debe ser breve.
+
+Solo registrar:
+
+* decisiones importantes
+* problemas encontrados
+* soluciones implementadas
+* aprendizajes reutilizables
+
+Evitar:
+
+* ensayos
+* resúmenes extensos
+* teoría copiada
+* contenido sin aplicación práctica
+
+---
 
 # ESTRATEGIA GENERAL
 
@@ -337,21 +465,131 @@ Duración:
 
 Continua
 
+
+### ESTRATEGIA DE INGLÉS TÉCNICO INDUSTRIAL
+
+#### Objetivo
+
+Desarrollar capacidad real de comunicación profesional en contextos industriales.
+
+El objetivo NO es memorizar vocabulario.
+
+El objetivo es poder:
+
+* entender reuniones técnicas
+* participar en reuniones
+* explicar KPIs
+* explicar dashboards
+* describir problemas operacionales
+* presentar proyectos
+* desenvolverse en entrevistas laborales
+
+---
+
+#### Distribución Recomendada
+
+##### 40% Listening
+
+Actividades:
+
+* YouTube técnico
+* Podcasts industriales
+* Presentaciones Power BI
+* Presentaciones Lean Six Sigma
+* Reuniones simuladas
+
 Objetivo:
 
-Comunicación técnica industrial.
+Acostumbrar el oído al inglés real.
 
-Competencias objetivo:
+---
 
-* KPI reporting
-* Dashboard presentations
-* Technical meetings
-* Technical listening
-* Technical speaking
+##### 30% Shadowing
 
-Resultado esperado:
+Actividades:
 
-Presentar análisis y dashboards en inglés.
+* repetir frases inmediatamente después del hablante
+* copiar pronunciación
+* copiar ritmo
+* copiar entonación
+
+Objetivo:
+
+Automatizar producción oral.
+
+---
+
+##### 20% Speaking
+
+Actividades:
+
+* explicar dashboards
+* describir KPIs
+* resumir videos
+* responder preguntas técnicas
+
+Objetivo:
+
+Generar fluidez profesional.
+
+---
+
+##### 10% Vocabulario
+
+Actividades:
+
+* registrar términos nuevos
+* crear glosario técnico
+* reutilizar palabras aprendidas
+
+Objetivo:
+
+Expandir vocabulario de forma contextual.
+
+---
+
+#### Regla Operacional
+
+Nunca estudiar listas aisladas de palabras.
+
+El vocabulario debe provenir de:
+
+* videos
+* reuniones
+* dashboards
+* casos industriales
+* documentación real
+
+---
+
+#### Entregable Semanal Obligatorio
+
+Cada semana generar:
+
+* 1 resumen técnico en inglés
+* 1 ejercicio de shadowing
+* 1 explicación oral de KPI o dashboard
+* registro de nuevo vocabulario aprendido
+
+---
+
+#### Indicadores de Progreso
+
+Nivel 1:
+Comprende videos con subtítulos.
+
+Nivel 2:
+Comprende videos técnicos sin pausar constantemente.
+
+Nivel 3:
+Explica KPIs simples.
+
+Nivel 4:
+Presenta dashboards.
+
+Nivel 5:
+Participa en reuniones técnicas y entrevistas.
+
 
 ---
 

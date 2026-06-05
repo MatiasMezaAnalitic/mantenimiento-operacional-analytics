@@ -1,0 +1,1001 @@
+OT,EquipoID,TipoOT,FechaApertura,Estado,HH
+OT-00001,FLO-042,Correctiva,2025-01-01,En Proceso,15
+OT-00002,REL-010,Correctiva,2025-01-02,En Proceso,6
+OT-00003,MOL-041,Emergencia,2025-01-03,Abierta,1
+OT-00004,MOL-001,Preventiva,2025-01-04,Abierta,18
+OT-00005,REL-040,Correctiva,2025-01-05,En Proceso,28
+OT-00006,REL-040,Preventiva,2025-01-06,Abierta,12
+OT-00007,REL-040,Preventiva,2025-01-07,En Proceso,34
+OT-00008,FIL-034,Emergencia,2025-01-08,Abierta,15
+OT-00009,FIL-024,Emergencia,2025-01-09,Abierta,36
+OT-00010,MOL-036,Preventiva,2025-01-10,Abierta,10
+OT-00011,FIL-014,Predictiva,2025-01-11,Abierta,22
+OT-00012,REL-040,Preventiva,2025-01-12,En Proceso,30
+OT-00013,ESP-028,Preventiva,2025-01-13,En Proceso,3
+OT-00014,ESP-023,Correctiva,2025-01-14,En Proceso,37
+OT-00015,MOL-026,Preventiva,2025-01-15,En Proceso,15
+OT-00016,FIL-029,Correctiva,2025-01-16,Abierta,20
+OT-00017,FLO-002,Emergencia,2025-01-17,En Proceso,25
+OT-00018,FLO-007,Predictiva,2025-01-18,Cerrada,26
+OT-00019,ESP-013,Predictiva,2025-01-19,Cerrada,1
+OT-00020,MOL-006,Correctiva,2025-01-20,En Proceso,34
+OT-00021,FLO-022,Preventiva,2025-01-21,En Proceso,25
+OT-00022,FIL-034,Preventiva,2025-01-22,En Proceso,39
+OT-00023,ESP-033,Correctiva,2025-01-23,Cerrada,19
+OT-00024,FIL-024,Preventiva,2025-01-24,Cerrada,24
+OT-00025,ESP-043,Emergencia,2025-01-25,En Proceso,18
+OT-00026,FIL-029,Emergencia,2025-01-26,Abierta,35
+OT-00027,mol-004,Emergencia,2025-01-27,Abierta,33
+OT-00028,FIL-039,Predictiva,2025-01-28,Cerrada,36
+OT-00029,FIL-029,Predictiva,2025-01-29,Abierta,20
+OT-00030,FLO-032,Predictiva,2025-01-30,Abierta,31
+OT-00031,FIL-029,Correctiva,2025-01-31,En Proceso,14
+OT-00032,ESP-028,Predictiva,2025-02-01,En Proceso,18
+OT-00033,REL-005,Emergencia,2025-02-02,Cerrada,30
+OT-00034,ESP-028,Emergencia,2025-02-03,Cerrada,4
+OT-00035,REL-040,Predictiva,2025-02-04,Cerrada,28
+OT-00036,MOL-016,Preventiva,2025-02-05,En Proceso,1
+OT-00037,MOL-031,Predictiva,2025-02-06,Cerrada,23
+OT-00038,FLO-002,Correctiva,2025-02-07,Abierta,19
+OT-00039,ESP-018,Predictiva,2025-02-08,Cerrada,19
+OT-00040,FLO-022,Predictiva,2025-02-09,Cerrada,20
+OT-00041,REL-050,Emergencia,2025-02-10,En Proceso,20
+OT-00042,MOL-011,Correctiva,2025-02-11,En Proceso,16
+OT-00043,FIL-014,Emergencia,2025-02-12,En Proceso,18
+OT-00044,MOL-021,Emergencia,2025-02-13,Cerrada,23
+OT-00045,REL-050,Correctiva,2025-02-14,Cerrada,30
+OT-00046,ESP-043,Correctiva,2025-02-15,Cerrada,22
+OT-00047,FLO-002,Predictiva,2025-02-16,Abierta,26
+OT-00048,FLO-012,Emergencia,2025-02-17,En Proceso,33
+OT-00049,FLO-042,Predictiva,2025-02-18,En Proceso,39
+OT-00050,ESP-003,Emergencia,2025-02-19,En Proceso,5
+OT-00051,ESP-043,Correctiva,2025-02-20,Abierta,28
+OT-00052,REL-015,Predictiva,2025-02-21,Abierta,9
+OT-00053,MOL-046,Correctiva,2025-02-22,En Proceso,8
+OT-00054,REL-015,Emergencia,2025-02-23,Cerrada,31
+OT-00055,FLO-022,Correctiva,2025-02-24,En Proceso,3
+OT-00056,FIL-034,Predictiva,2025-02-25,Cerrada,34
+OT-00057,FLO-007,Preventiva,2025-02-26,Cerrada,31
+OT-00058,ESP-028,Emergencia,2025-02-27,Cerrada,39
+OT-00059,MOL-026,Correctiva,2025-02-28,En Proceso,27
+OT-00060,REL-040,Correctiva,2025-03-01,Cerrada,35
+OT-00061,REL-050,Predictiva,2025-03-02,En Proceso,5
+OT-00062,FIL-034,Correctiva,2025-03-03,Abierta,35
+OT-00063,MOL-021,Emergencia,2025-03-04,Cerrada,7
+OT-00064,MOL-021,Predictiva,2025-03-05,En Proceso,13
+OT-00065,MOL-021,Predictiva,2025-03-06,En Proceso,5
+OT-00066,MOL-041,Preventiva,2025-03-07,En Proceso,16
+OT-00067,FLO-017,Preventiva,2025-03-08,Abierta,30
+OT-00068,FIL-009,Correctiva,2025-03-09,En Proceso,11
+OT-00069,FLO-017,Emergencia,2025-03-10,En Proceso,33
+OT-00070,FLO-002,Emergencia,2025-03-11,En Proceso,24
+OT-00071,MOL-006,Predictiva,2025-03-12,Abierta,25
+OT-00072,REL-005,Predictiva,2025-03-13,En Proceso,37
+OT-00073,FIL-039,Correctiva,2025-03-14,En Proceso,17
+OT-00074,FLO-037,Preventiva,2025-03-15,En Proceso,14
+OT-00075,REL-035,Preventiva,2025-03-16,Abierta,39
+OT-00076,FIL-024,Correctiva,2025-03-17,En Proceso,22
+OT-00077,MOL-036,Correctiva,2025-03-18,Abierta,24
+OT-00078,FIL-009,Preventiva,2025-03-19,Cerrada,12
+OT-00079,MOL-046,Correctiva,2025-03-20,Cerrada,9
+OT-00080,MOL-026,Preventiva,2025-03-21,Cerrada,7
+OT-00081,FLO-047,Predictiva,2025-03-22,En Proceso,9
+OT-00082,ESP-008,Emergencia,2025-03-23,Abierta,8
+OT-00083,REL-025,Predictiva,2025-03-24,Cerrada,30
+OT-00084,REL-035,Correctiva,2025-03-25,Cerrada,3
+OT-00085,REL-025,Correctiva,2025-03-26,Cerrada,25
+OT-00086,ESP-023,Correctiva,2025-03-27,Abierta,38
+OT-00087,FIL-009,Preventiva,2025-03-28,Abierta,30
+OT-00088,REL-020,Predictiva,2025-03-29,Abierta,16
+OT-00089,FLO-012,Predictiva,2025-03-30,Cerrada,3
+OT-00090,MOL-016,Preventiva,2025-03-31,Cerrada,33
+OT-00091,REL-035,Correctiva,2025-04-01,Cerrada,1
+OT-00092,FLO-032,Correctiva,2025-04-02,Cerrada,27
+OT-00093,MOL-031,Preventiva,2025-04-03,Abierta,27
+OT-00094,FIL-019,Predictiva,2025-04-04,Abierta,8
+OT-00095,ESP-048,Predictiva,2025-04-05,Cerrada,29
+OT-00096,REL-005,Predictiva,2025-04-06,En Proceso,7
+OT-00097,ESP-018,Predictiva,2025-04-07,Abierta,9
+OT-00098,MOL-006,Emergencia,2025-04-08,En Proceso,32
+OT-00099,FLO-017,Emergencia,2025-04-09,Cerrada,39
+OT-00100,FIL-049,Predictiva,2025-04-10,Abierta,11
+OT-00101,FIL-019,Emergencia,2025-04-11,Cerrada,36
+OT-00102,MOL-046,Correctiva,2025-04-12,Abierta,36
+OT-00103,REL-025,Emergencia,2025-04-13,Abierta,31
+OT-00104,REL-035,Emergencia,2025-04-14,Cerrada,6
+OT-00105,ESP-023,Predictiva,2025-04-15,Cerrada,12
+OT-00106,FIL-014,Emergencia,2025-04-16,En Proceso,27
+OT-00107,FIL-039,Predictiva,2025-04-17,Abierta,39
+OT-00108,FIL-049,Predictiva,2025-04-18,En Proceso,32
+OT-00109,FIL-014,Correctiva,2025-04-19,Abierta,17
+OT-00110,FIL-039,Emergencia,2025-04-20,Abierta,10
+OT-00111,FIL-014,Predictiva,2025-04-21,En Proceso,38
+OT-00112,MOL-036,Emergencia,2025-04-22,En Proceso,11
+OT-00113,REL-040,Correctiva,2025-04-23,Cerrada,14
+OT-00114,ESP-023,Emergencia,2025-04-24,Abierta,38
+OT-00115,FLO-037,Preventiva,2025-04-25,Abierta,22
+OT-00116,FIL-014,Preventiva,2025-04-26,Cerrada,11
+OT-00117,mol-004,Predictiva,2025-04-27,Cerrada,1
+OT-00118,REL-005,Predictiva,2025-04-28,En Proceso,17
+OT-00119,ESP-023,Emergencia,2025-04-29,Abierta,39
+OT-00120,MOL-046,Correctiva,2025-04-30,Abierta,17
+OT-00121,FLO-007,Predictiva,2025-05-01,En Proceso,28
+OT-00122,ESP-023,Predictiva,2025-05-02,Abierta,10
+OT-00123,MOL-036,Emergencia,2025-05-03,Abierta,31
+OT-00124,MOL-011,Predictiva,2025-05-04,Cerrada,31
+OT-00125,FLO-037,Correctiva,2025-05-05,Cerrada,24
+OT-00126,MOL-016,Emergencia,2025-05-06,Cerrada,31
+OT-00127,MOL-041,Preventiva,2025-05-07,En Proceso,23
+OT-00128,FIL-029,Emergencia,2025-05-08,En Proceso,15
+OT-00129,ESP-028,Preventiva,2025-05-09,Abierta,29
+OT-00130,FIL-009,Correctiva,2025-05-10,En Proceso,33
+OT-00131,FIL-024,Emergencia,2025-05-11,Cerrada,33
+OT-00132,ESP-043,Predictiva,2025-05-12,Abierta,9
+OT-00133,MOL-001,Emergencia,2025-05-13,En Proceso,27
+OT-00134,ESP-038,Predictiva,2025-05-14,Abierta,1
+OT-00135,REL-025,Predictiva,2025-05-15,Cerrada,23
+OT-00136,MOL-036,Correctiva,2025-05-16,En Proceso,23
+OT-00137,FIL-034,Preventiva,2025-05-17,Abierta,15
+OT-00138,FLO-022,Preventiva,2025-05-18,Abierta,39
+OT-00139,MOL-016,Correctiva,2025-05-19,Cerrada,35
+OT-00140,FLO-032,Preventiva,2025-05-20,En Proceso,2
+OT-00141,ESP-008,Predictiva,2025-05-21,Abierta,9
+OT-00142,REL-030,Emergencia,2025-05-22,Cerrada,9
+OT-00143,REL-005,Emergencia,2025-05-23,Cerrada,36
+OT-00144,ESP-033,Correctiva,2025-05-24,Abierta,21
+OT-00145,FLO-032,Emergencia,2025-05-25,En Proceso,29
+OT-00146,REL-005,Emergencia,2025-05-26,En Proceso,32
+OT-00147,ESP-038,Emergencia,2025-05-27,Cerrada,30
+OT-00148,MOL-021,Correctiva,2025-05-28,Abierta,4
+OT-00149,REL-040,Correctiva,2025-05-29,Abierta,6
+OT-00150,ESP-003,Emergencia,2025-05-30,Cerrada,16
+OT-00151,FIL-009,Preventiva,2025-05-31,Cerrada,14
+OT-00152,REL-025,Correctiva,2025-06-01,Cerrada,30
+OT-00153,REL-010,Preventiva,2025-06-02,Abierta,7
+OT-00154,FLO-017,Emergencia,2025-06-03,Cerrada,15
+OT-00155,FIL-034,Predictiva,2025-06-04,Abierta,10
+OT-00156,ESP-008,Preventiva,2025-06-05,En Proceso,8
+OT-00157,FIL-034,Preventiva,2025-06-06,En Proceso,7
+OT-00158,MOL-006,Predictiva,2025-06-07,Cerrada,8
+OT-00159,FIL-009,Predictiva,2025-06-08,Abierta,23
+OT-00160,REL-030,Emergencia,2025-06-09,En Proceso,16
+OT-00161,REL-040,Correctiva,2025-06-10,Abierta,17
+OT-00162,FIL-009,Emergencia,2025-06-11,En Proceso,19
+OT-00163,REL-015,Correctiva,2025-06-12,Abierta,29
+OT-00164,FLO-047,Emergencia,2025-06-13,Cerrada,34
+OT-00165,REL-050,Preventiva,2025-06-14,Abierta,21
+OT-00166,REL-030,Preventiva,2025-06-15,Abierta,26
+OT-00167,ESP-023,Preventiva,2025-06-16,En Proceso,29
+OT-00168,ESP-018,Correctiva,2025-06-17,En Proceso,27
+OT-00169,MOL-031,Emergencia,2025-06-18,Abierta,6
+OT-00170,REL-030,Preventiva,2025-06-19,En Proceso,39
+OT-00171,REL-015,Correctiva,2025-06-20,Abierta,7
+OT-00172,FLO-002,Preventiva,2025-06-21,Abierta,17
+OT-00173,ESP-008,Emergencia,2025-06-22,Abierta,26
+OT-00174,ESP-048,Predictiva,2025-06-23,Cerrada,16
+OT-00175,MOL-021,Emergencia,2025-06-24,Abierta,10
+OT-00176,REL-025,Predictiva,2025-06-25,Cerrada,37
+OT-00177,FIL-024,Predictiva,2025-06-26,Abierta,3
+OT-00178,REL-040,Emergencia,2025-06-27,Abierta,10
+OT-00179,mol-004,Preventiva,2025-06-28,Cerrada,39
+OT-00180,REL-005,Emergencia,2025-06-29,En Proceso,29
+OT-00181,FIL-014,Predictiva,2025-06-30,En Proceso,4
+OT-00182,REL-025,Predictiva,2025-07-01,Cerrada,30
+OT-00183,FIL-034,Correctiva,2025-07-02,Abierta,38
+OT-00184,REL-025,Emergencia,2025-07-03,En Proceso,4
+OT-00185,ESP-023,Correctiva,2025-07-04,En Proceso,17
+OT-00186,FLO-047,Preventiva,2025-07-05,En Proceso,19
+OT-00187,FIL-009,Emergencia,2025-07-06,En Proceso,6
+OT-00188,FIL-029,Preventiva,2025-07-07,En Proceso,8
+OT-00189,ESP-028,Preventiva,2025-07-08,En Proceso,7
+OT-00190,FIL-024,Predictiva,2025-07-09,Cerrada,8
+OT-00191,MOL-041,Preventiva,2025-07-10,Cerrada,16
+OT-00192,FIL-014,Emergencia,2025-07-11,Abierta,19
+OT-00193,ESP-048,Correctiva,2025-07-12,Abierta,10
+OT-00194,FLO-017,Preventiva,2025-07-13,En Proceso,12
+OT-00195,ESP-028,Emergencia,2025-07-14,En Proceso,8
+OT-00196,FLO-027,Predictiva,2025-07-15,En Proceso,32
+OT-00197,ESP-043,Correctiva,2025-07-16,Abierta,9
+OT-00198,FLO-022,Predictiva,2025-07-17,Cerrada,36
+OT-00199,REL-015,Predictiva,2025-07-18,Abierta,22
+OT-00200,FLO-002,Preventiva,2025-07-19,En Proceso,32
+OT-00201,FIL-019,Emergencia,2025-07-20,Abierta,25
+OT-00202,FLO-042,Correctiva,2025-07-21,Abierta,11
+OT-00203,MOL-001,Predictiva,2025-07-22,Cerrada,24
+OT-00204,REL-045,Emergencia,2025-07-23,En Proceso,11
+OT-00205,ESP-028,Predictiva,2025-07-24,En Proceso,5
+OT-00206,ESP-008,Predictiva,2025-07-25,Abierta,10
+OT-00207,MOL-016,Correctiva,2025-07-26,Abierta,11
+OT-00208,ESP-028,Preventiva,2025-07-27,Abierta,6
+OT-00209,MOL-016,Correctiva,2025-07-28,Abierta,1
+OT-00210,MOL-006,Emergencia,2025-07-29,Cerrada,37
+OT-00211,FIL-034,Predictiva,2025-07-30,Abierta,21
+OT-00212,FIL-034,Correctiva,2025-07-31,Abierta,16
+OT-00213,MOL-006,Emergencia,2025-08-01,Cerrada,37
+OT-00214,REL-015,Emergencia,2025-08-02,Abierta,9
+OT-00215,ESP-013,Emergencia,2025-08-03,Abierta,16
+OT-00216,ESP-033,Correctiva,2025-08-04,Abierta,34
+OT-00217,FLO-037,Predictiva,2025-08-05,Abierta,25
+OT-00218,FLO-037,Predictiva,2025-08-06,Cerrada,16
+OT-00219,FLO-047,Correctiva,2025-08-07,En Proceso,10
+OT-00220,FIL-039,Correctiva,2025-08-08,En Proceso,2
+OT-00221,FLO-017,Preventiva,2025-08-09,Abierta,4
+OT-00222,MOL-006,Correctiva,2025-08-10,Abierta,7
+OT-00223,MOL-031,Predictiva,2025-08-11,Cerrada,31
+OT-00224,MOL-046,Emergencia,2025-08-12,Cerrada,25
+OT-00225,FIL-049,Emergencia,2025-08-13,En Proceso,17
+OT-00226,FLO-012,Preventiva,2025-08-14,En Proceso,31
+OT-00227,FLO-012,Predictiva,2025-08-15,Cerrada,7
+OT-00228,FLO-002,Preventiva,2025-08-16,Abierta,9
+OT-00229,ESP-008,Predictiva,2025-08-17,Abierta,16
+OT-00230,ESP-028,Correctiva,2025-08-18,Abierta,36
+OT-00231,ESP-028,Correctiva,2025-08-19,Abierta,24
+OT-00232,FIL-019,Predictiva,2025-08-20,En Proceso,34
+OT-00233,MOL-016,Correctiva,2025-08-21,Abierta,10
+OT-00234,FLO-042,Emergencia,2025-08-22,En Proceso,34
+OT-00235,FIL-024,Predictiva,2025-08-23,Cerrada,3
+OT-00236,MOL-041,Emergencia,2025-08-24,Cerrada,9
+OT-00237,FIL-049,Predictiva,2025-08-25,Cerrada,21
+OT-00238,MOL-016,Correctiva,2025-08-26,En Proceso,2
+OT-00239,MOL-011,Emergencia,2025-08-27,Abierta,34
+OT-00240,ESP-048,Correctiva,2025-08-28,Abierta,34
+OT-00241,FLO-032,Predictiva,2025-08-29,Cerrada,22
+OT-00242,REL-015,Preventiva,2025-08-30,Cerrada,12
+OT-00243,FLO-032,Preventiva,2025-08-31,Cerrada,4
+OT-00244,MOL-026,Predictiva,2025-09-01,En Proceso,25
+OT-00245,MOL-046,Preventiva,2025-09-02,Cerrada,21
+OT-00246,ESP-013,Emergencia,2025-09-03,Abierta,30
+OT-00247,REL-050,Emergencia,2025-09-04,Abierta,24
+OT-00248,FLO-047,Predictiva,2025-09-05,En Proceso,6
+OT-00249,REL-010,Predictiva,2025-09-06,Abierta,5
+OT-00250,FIL-009,Predictiva,2025-09-07,Cerrada,31
+OT-00251,FLO-027,Preventiva,2025-09-08,Cerrada,7
+OT-00252,ESP-003,Correctiva,2025-09-09,En Proceso,37
+OT-00253,REL-015,Correctiva,2025-09-10,En Proceso,5
+OT-00254,FLO-022,Emergencia,2025-09-11,Cerrada,29
+OT-00255,FIL-049,Preventiva,2025-09-12,Abierta,39
+OT-00256,REL-050,Correctiva,2025-09-13,Cerrada,18
+OT-00257,ESP-008,Correctiva,2025-09-14,Cerrada,3
+OT-00258,REL-045,Preventiva,2025-09-15,Abierta,35
+OT-00259,REL-005,Preventiva,2025-09-16,Cerrada,8
+OT-00260,ESP-038,Correctiva,2025-09-17,Abierta,21
+OT-00261,ESP-043,Preventiva,2025-09-18,Cerrada,39
+OT-00262,REL-045,Preventiva,2025-09-19,En Proceso,30
+OT-00263,FLO-012,Correctiva,2025-09-20,En Proceso,2
+OT-00264,REL-045,Preventiva,2025-09-21,Abierta,32
+OT-00265,MOL-006,Predictiva,2025-09-22,En Proceso,7
+OT-00266,MOL-026,Preventiva,2025-09-23,Abierta,30
+OT-00267,FIL-024,Correctiva,2025-09-24,Cerrada,25
+OT-00268,MOL-016,Correctiva,2025-09-25,Abierta,12
+OT-00269,FLO-002,Emergencia,2025-09-26,Abierta,17
+OT-00270,FIL-039,Predictiva,2025-09-27,Abierta,5
+OT-00271,FLO-017,Emergencia,2025-09-28,Abierta,39
+OT-00272,FIL-034,Correctiva,2025-09-29,En Proceso,10
+OT-00273,MOL-021,Correctiva,2025-09-30,Abierta,13
+OT-00274,FIL-019,Correctiva,2025-10-01,Cerrada,20
+OT-00275,REL-045,Emergencia,2025-10-02,En Proceso,27
+OT-00276,REL-005,Emergencia,2025-10-03,En Proceso,20
+OT-00277,FLO-037,Emergencia,2025-10-04,En Proceso,20
+OT-00278,ESP-038,Emergencia,2025-10-05,Abierta,23
+OT-00279,FIL-019,Predictiva,2025-10-06,En Proceso,34
+OT-00280,FIL-014,Predictiva,2025-10-07,Cerrada,16
+OT-00281,MOL-001,Emergencia,2025-10-08,Abierta,33
+OT-00282,FLO-047,Correctiva,2025-10-09,Cerrada,31
+OT-00283,ESP-048,Correctiva,2025-10-10,En Proceso,38
+OT-00284,ESP-013,Emergencia,2025-10-11,Cerrada,36
+OT-00285,FLO-002,Correctiva,2025-10-12,Abierta,32
+OT-00286,FLO-007,Preventiva,2025-10-13,En Proceso,10
+OT-00287,mol-004,Predictiva,2025-10-14,En Proceso,31
+OT-00288,FLO-042,Correctiva,2025-10-15,En Proceso,29
+OT-00289,REL-045,Emergencia,2025-10-16,En Proceso,12
+OT-00290,ESP-008,Emergencia,2025-10-17,En Proceso,27
+OT-00291,ESP-038,Correctiva,2025-10-18,Cerrada,10
+OT-00292,FIL-009,Predictiva,2025-10-19,Abierta,21
+OT-00293,FIL-019,Emergencia,2025-10-20,Cerrada,32
+OT-00294,REL-030,Predictiva,2025-10-21,Abierta,8
+OT-00295,MOL-036,Preventiva,2025-10-22,Cerrada,14
+OT-00296,FIL-044,Predictiva,2025-10-23,Cerrada,32
+OT-00297,ESP-003,Predictiva,2025-10-24,En Proceso,18
+OT-00298,REL-010,Predictiva,2025-10-25,Abierta,38
+OT-00299,REL-015,Preventiva,2025-10-26,Abierta,1
+OT-00300,MOL-016,Correctiva,2025-10-27,En Proceso,29
+OT-00301,REL-050,Emergencia,2025-10-28,Abierta,32
+OT-00302,FIL-039,Preventiva,2025-10-29,Cerrada,36
+OT-00303,FLO-017,Correctiva,2025-10-30,En Proceso,7
+OT-00304,FIL-049,Correctiva,2025-10-31,Cerrada,39
+OT-00305,REL-025,Preventiva,2025-11-01,Cerrada,16
+OT-00306,MOL-026,Preventiva,2025-11-02,En Proceso,14
+OT-00307,FLO-022,Correctiva,2025-11-03,Cerrada,14
+OT-00308,ESP-008,Emergencia,2025-11-04,En Proceso,25
+OT-00309,FLO-047,Preventiva,2025-11-05,Cerrada,26
+OT-00310,MOL-001,Correctiva,2025-11-06,Abierta,19
+OT-00311,FIL-009,Preventiva,2025-11-07,Cerrada,3
+OT-00312,FLO-012,Predictiva,2025-11-08,Abierta,39
+OT-00313,FIL-014,Correctiva,2025-11-09,En Proceso,9
+OT-00314,FLO-007,Emergencia,2025-11-10,Cerrada,4
+OT-00315,MOL-001,Predictiva,2025-11-11,Cerrada,24
+OT-00316,FIL-034,Emergencia,2025-11-12,Cerrada,17
+OT-00317,FIL-049,Predictiva,2025-11-13,Cerrada,25
+OT-00318,FLO-007,Correctiva,2025-11-14,Abierta,35
+OT-00319,REL-015,Emergencia,2025-11-15,Abierta,4
+OT-00320,MOL-026,Correctiva,2025-11-16,Cerrada,12
+OT-00321,FLO-047,Emergencia,2025-11-17,Abierta,21
+OT-00322,REL-035,Emergencia,2025-11-18,En Proceso,31
+OT-00323,FIL-039,Predictiva,2025-11-19,Abierta,24
+OT-00324,REL-030,Predictiva,2025-11-20,En Proceso,15
+OT-00325,MOL-021,Correctiva,2025-11-21,Cerrada,24
+OT-00326,REL-010,Emergencia,2025-11-22,Cerrada,39
+OT-00327,FIL-044,Predictiva,2025-11-23,Abierta,19
+OT-00328,MOL-041,Emergencia,2025-11-24,Cerrada,35
+OT-00329,FLO-002,Correctiva,2025-11-25,En Proceso,31
+OT-00330,MOL-036,Emergencia,2025-11-26,Abierta,12
+OT-00331,REL-005,Correctiva,2025-11-27,Abierta,10
+OT-00332,FLO-037,Preventiva,2025-11-28,Cerrada,31
+OT-00333,FLO-042,Preventiva,2025-11-29,Abierta,9
+OT-00334,FLO-007,Predictiva,2025-11-30,Abierta,14
+OT-00335,FLO-022,Correctiva,2025-12-01,Cerrada,10
+OT-00336,FLO-007,Preventiva,2025-12-02,Cerrada,24
+OT-00337,FIL-029,Correctiva,2025-12-03,Cerrada,12
+OT-00338,FLO-047,Predictiva,2025-12-04,En Proceso,26
+OT-00339,REL-005,Correctiva,2025-12-05,En Proceso,37
+OT-00340,REL-020,Emergencia,2025-12-06,Abierta,33
+OT-00341,FIL-049,Emergencia,2025-12-07,Cerrada,37
+OT-00342,MOL-016,Predictiva,2025-12-08,Abierta,1
+OT-00343,FLO-007,Emergencia,2025-12-09,Abierta,18
+OT-00344,REL-025,Correctiva,2025-12-10,Abierta,9
+OT-00345,MOL-026,Preventiva,2025-12-11,Cerrada,36
+OT-00346,FIL-034,Preventiva,2025-12-12,En Proceso,28
+OT-00347,MOL-016,Emergencia,2025-12-13,En Proceso,13
+OT-00348,ESP-048,Emergencia,2025-12-14,Cerrada,22
+OT-00349,FLO-027,Predictiva,2025-12-15,En Proceso,24
+OT-00350,REL-015,Preventiva,2025-12-16,Abierta,20
+OT-00351,FIL-049,Correctiva,2025-12-17,En Proceso,19
+OT-00352,FLO-047,Preventiva,2025-12-18,En Proceso,3
+OT-00353,REL-025,Preventiva,2025-12-19,Abierta,18
+OT-00354,FLO-002,Preventiva,2025-12-20,Cerrada,14
+OT-00355,REL-030,Predictiva,2025-12-21,En Proceso,32
+OT-00356,ESP-028,Preventiva,2025-12-22,Cerrada,34
+OT-00357,ESP-008,Emergencia,2025-12-23,En Proceso,30
+OT-00358,FLO-032,Correctiva,2025-12-24,En Proceso,2
+OT-00359,ESP-043,Correctiva,2025-12-25,Cerrada,33
+OT-00360,MOL-006,Predictiva,2025-12-26,Abierta,16
+OT-00361,FLO-037,Emergencia,2025-12-27,Cerrada,17
+OT-00362,ESP-008,Correctiva,2025-12-28,Abierta,37
+OT-00363,ESP-038,Preventiva,2025-12-29,Cerrada,34
+OT-00364,MOL-021,Preventiva,2025-12-30,Cerrada,2
+OT-00365,MOL-001,Emergencia,2025-12-31,Cerrada,15
+OT-00366,FIL-049,Preventiva,2026-01-01,Abierta,30
+OT-00367,FIL-009,Predictiva,2026-01-02,Abierta,22
+OT-00368,REL-030,Correctiva,2026-01-03,En Proceso,11
+OT-00369,REL-010,Emergencia,2026-01-04,Abierta,21
+OT-00370,FLO-047,Preventiva,2026-01-05,Abierta,34
+OT-00371,FLO-037,Emergencia,2026-01-06,En Proceso,9
+OT-00372,MOL-041,Predictiva,2026-01-07,Abierta,30
+OT-00373,FLO-022,Correctiva,2026-01-08,Cerrada,29
+OT-00374,FIL-024,Preventiva,2026-01-09,Abierta,35
+OT-00375,FLO-032,Emergencia,2026-01-10,Abierta,12
+OT-00376,REL-040,Correctiva,2026-01-11,Cerrada,9
+OT-00377,ESP-043,Correctiva,2026-01-12,Cerrada,22
+OT-00378,MOL-001,Correctiva,2026-01-13,Abierta,21
+OT-00379,FIL-034,Preventiva,2026-01-14,Abierta,16
+OT-00380,MOL-006,Correctiva,2026-01-15,Abierta,31
+OT-00381,REL-015,Preventiva,2026-01-16,Cerrada,32
+OT-00382,FLO-042,Preventiva,2026-01-17,En Proceso,10
+OT-00383,ESP-013,Correctiva,2026-01-18,Abierta,32
+OT-00384,REL-040,Preventiva,2026-01-19,Abierta,9
+OT-00385,FIL-024,Correctiva,2026-01-20,Cerrada,16
+OT-00386,FLO-012,Emergencia,2026-01-21,Cerrada,2
+OT-00387,FLO-017,Preventiva,2026-01-22,Abierta,14
+OT-00388,FLO-027,Preventiva,2026-01-23,Abierta,38
+OT-00389,FIL-039,Preventiva,2026-01-24,Cerrada,18
+OT-00390,MOL-031,Predictiva,2026-01-25,Cerrada,28
+OT-00391,FLO-047,Correctiva,2026-01-26,Cerrada,5
+OT-00392,FIL-044,Correctiva,2026-01-27,Abierta,25
+OT-00393,ESP-038,Preventiva,2026-01-28,En Proceso,15
+OT-00394,MOL-031,Correctiva,2026-01-29,Cerrada,30
+OT-00395,REL-015,Correctiva,2026-01-30,Cerrada,37
+OT-00396,MOL-021,Correctiva,2026-01-31,Abierta,21
+OT-00397,MOL-006,Predictiva,2026-02-01,En Proceso,5
+OT-00398,FIL-019,Emergencia,2026-02-02,En Proceso,19
+OT-00399,FLO-047,Correctiva,2026-02-03,Abierta,5
+OT-00400,FLO-022,Emergencia,2026-02-04,En Proceso,18
+OT-00401,MOL-006,Predictiva,2026-02-05,En Proceso,3
+OT-00402,ESP-033,Correctiva,2026-02-06,Abierta,25
+OT-00403,FIL-049,Preventiva,2026-02-07,En Proceso,13
+OT-00404,FIL-044,Correctiva,2026-02-08,Abierta,8
+OT-00405,FIL-014,Predictiva,2026-02-09,Abierta,1
+OT-00406,ESP-023,Preventiva,2026-02-10,Abierta,35
+OT-00407,FLO-027,Emergencia,2026-02-11,Cerrada,33
+OT-00408,ESP-013,Correctiva,2026-02-12,Cerrada,32
+OT-00409,FIL-014,Emergencia,2026-02-13,Cerrada,3
+OT-00410,FLO-012,Predictiva,2026-02-14,Abierta,14
+OT-00411,REL-050,Correctiva,2026-02-15,Abierta,38
+OT-00412,ESP-038,Preventiva,2026-02-16,En Proceso,23
+OT-00413,ESP-043,Predictiva,2026-02-17,En Proceso,6
+OT-00414,MOL-041,Correctiva,2026-02-18,En Proceso,6
+OT-00415,ESP-048,Preventiva,2026-02-19,Abierta,11
+OT-00416,MOL-006,Emergencia,2026-02-20,En Proceso,38
+OT-00417,REL-045,Correctiva,2026-02-21,En Proceso,7
+OT-00418,mol-004,Preventiva,2026-02-22,Cerrada,36
+OT-00419,FIL-024,Correctiva,2026-02-23,Abierta,27
+OT-00420,REL-030,Correctiva,2026-02-24,En Proceso,36
+OT-00421,ESP-018,Emergencia,2026-02-25,Cerrada,33
+OT-00422,ESP-008,Predictiva,2026-02-26,Abierta,13
+OT-00423,REL-010,Preventiva,2026-02-27,Abierta,33
+OT-00424,FLO-042,Preventiva,2026-02-28,Cerrada,7
+OT-00425,MOL-016,Predictiva,2026-03-01,Abierta,12
+OT-00426,MOL-016,Preventiva,2026-03-02,Abierta,9
+OT-00427,FLO-047,Correctiva,2026-03-03,Cerrada,6
+OT-00428,ESP-008,Preventiva,2026-03-04,En Proceso,4
+OT-00429,MOL-046,Preventiva,2026-03-05,Abierta,8
+OT-00430,FLO-047,Emergencia,2026-03-06,Cerrada,5
+OT-00431,REL-030,Preventiva,2026-03-07,En Proceso,15
+OT-00432,FIL-009,Preventiva,2026-03-08,En Proceso,3
+OT-00433,ESP-008,Emergencia,2026-03-09,En Proceso,3
+OT-00434,REL-015,Preventiva,2026-03-10,Abierta,39
+OT-00435,FIL-029,Emergencia,2026-03-11,En Proceso,4
+OT-00436,ESP-008,Preventiva,2026-03-12,En Proceso,3
+OT-00437,ESP-023,Preventiva,2026-03-13,Abierta,2
+OT-00438,MOL-006,Preventiva,2026-03-14,Cerrada,6
+OT-00439,ESP-028,Predictiva,2026-03-15,Cerrada,21
+OT-00440,FLO-002,Predictiva,2026-03-16,Cerrada,33
+OT-00441,MOL-036,Correctiva,2026-03-17,Abierta,29
+OT-00442,ESP-003,Preventiva,2026-03-18,En Proceso,23
+OT-00443,REL-010,Preventiva,2026-03-19,En Proceso,4
+OT-00444,FIL-009,Predictiva,2026-03-20,Cerrada,31
+OT-00445,FLO-042,Preventiva,2026-03-21,En Proceso,2
+OT-00446,ESP-003,Predictiva,2026-03-22,Cerrada,25
+OT-00447,FLO-022,Predictiva,2026-03-23,En Proceso,16
+OT-00448,REL-030,Emergencia,2026-03-24,Cerrada,35
+OT-00449,MOL-026,Correctiva,2026-03-25,Cerrada,12
+OT-00450,REL-035,Preventiva,2026-03-26,Abierta,25
+OT-00451,MOL-041,Correctiva,2026-03-27,Cerrada,18
+OT-00452,REL-020,Emergencia,2026-03-28,Abierta,21
+OT-00453,FLO-042,Predictiva,2026-03-29,Abierta,37
+OT-00454,MOL-016,Predictiva,2026-03-30,Abierta,28
+OT-00455,REL-050,Correctiva,2026-03-31,En Proceso,17
+OT-00456,MOL-026,Preventiva,2026-04-01,Abierta,18
+OT-00457,FLO-037,Emergencia,2026-04-02,En Proceso,28
+OT-00458,FIL-044,Emergencia,2026-04-03,En Proceso,14
+OT-00459,REL-040,Emergencia,2026-04-04,Abierta,7
+OT-00460,ESP-043,Emergencia,2026-04-05,Cerrada,19
+OT-00461,FLO-027,Correctiva,2026-04-06,Cerrada,3
+OT-00462,ESP-003,Correctiva,2026-04-07,Cerrada,7
+OT-00463,REL-025,Preventiva,2026-04-08,En Proceso,17
+OT-00464,REL-010,Emergencia,2026-04-09,Cerrada,32
+OT-00465,REL-045,Predictiva,2026-04-10,Cerrada,31
+OT-00466,FLO-012,Correctiva,2026-04-11,Cerrada,11
+OT-00467,FLO-012,Emergencia,2026-04-12,En Proceso,17
+OT-00468,ESP-013,Predictiva,2026-04-13,Cerrada,6
+OT-00469,ESP-033,Emergencia,2026-04-14,Cerrada,30
+OT-00470,FIL-029,Emergencia,2026-04-15,En Proceso,10
+OT-00471,ESP-048,Preventiva,2026-04-16,En Proceso,32
+OT-00472,MOL-021,Correctiva,2026-04-17,En Proceso,33
+OT-00473,REL-015,Predictiva,2026-04-18,En Proceso,27
+OT-00474,ESP-003,Emergencia,2026-04-19,Cerrada,13
+OT-00475,MOL-001,Preventiva,2026-04-20,En Proceso,38
+OT-00476,FIL-019,Correctiva,2026-04-21,Abierta,27
+OT-00477,FLO-047,Predictiva,2026-04-22,Abierta,26
+OT-00478,FLO-027,Emergencia,2026-04-23,Cerrada,34
+OT-00479,REL-045,Preventiva,2026-04-24,En Proceso,35
+OT-00480,MOL-006,Predictiva,2026-04-25,Cerrada,4
+OT-00481,REL-005,Correctiva,2026-04-26,Cerrada,35
+OT-00482,FLO-042,Preventiva,2026-04-27,Cerrada,30
+OT-00483,MOL-006,Predictiva,2026-04-28,Abierta,9
+OT-00484,ESP-003,Correctiva,2026-04-29,Cerrada,12
+OT-00485,MOL-021,Predictiva,2026-04-30,Cerrada,30
+OT-00486,FLO-047,Correctiva,2026-05-01,Cerrada,9
+OT-00487,REL-035,Emergencia,2026-05-02,Cerrada,18
+OT-00488,REL-005,Preventiva,2026-05-03,Abierta,27
+OT-00489,FLO-042,Emergencia,2026-05-04,En Proceso,26
+OT-00490,ESP-043,Preventiva,2026-05-05,Cerrada,36
+OT-00491,MOL-041,Predictiva,2026-05-06,Abierta,5
+OT-00492,MOL-046,Correctiva,2026-05-07,Cerrada,12
+OT-00493,FLO-012,Correctiva,2026-05-08,Cerrada,39
+OT-00494,FIL-049,Preventiva,2026-05-09,Abierta,23
+OT-00495,FLO-017,Predictiva,2026-05-10,Abierta,10
+OT-00496,MOL-041,Preventiva,2026-05-11,Abierta,12
+OT-00497,FIL-029,Predictiva,2026-05-12,Cerrada,14
+OT-00498,FIL-039,Predictiva,2026-05-13,En Proceso,22
+OT-00499,FLO-032,Emergencia,2026-05-14,En Proceso,12
+OT-00500,ESP-033,Predictiva,2026-05-15,Cerrada,25
+OT-00501,MOL-031,Correctiva,2026-05-16,En Proceso,18
+OT-00502,FIL-039,Predictiva,2026-05-17,Abierta,24
+OT-00503,FLO-037,Emergencia,2026-05-18,En Proceso,7
+OT-00504,FLO-007,Correctiva,2026-05-19,Cerrada,25
+OT-00505,FLO-042,Preventiva,2026-05-20,En Proceso,37
+OT-00506,FLO-027,Emergencia,2026-05-21,En Proceso,6
+OT-00507,FLO-017,Preventiva,2026-05-22,Cerrada,13
+OT-00508,MOL-026,Predictiva,2026-05-23,Abierta,28
+OT-00509,FIL-049,Preventiva,2026-05-24,Cerrada,25
+OT-00510,ESP-043,Preventiva,2026-05-25,En Proceso,27
+OT-00511,FLO-042,Emergencia,2026-05-26,En Proceso,22
+OT-00512,FIL-024,Preventiva,2026-05-27,En Proceso,27
+OT-00513,REL-040,Predictiva,2026-05-28,Abierta,24
+OT-00514,REL-020,Predictiva,2026-05-29,Cerrada,3
+OT-00515,REL-035,Preventiva,2026-05-30,Abierta,30
+OT-00516,FLO-032,Preventiva,2026-05-31,En Proceso,18
+OT-00517,ESP-013,Emergencia,2026-06-01,En Proceso,3
+OT-00518,FIL-014,Predictiva,2026-06-02,Abierta,16
+OT-00519,mol-004,Preventiva,2026-06-03,Cerrada,17
+OT-00520,FLO-007,Emergencia,2026-06-04,En Proceso,4
+OT-00521,FLO-022,Correctiva,2026-06-05,En Proceso,39
+OT-00522,FIL-024,Preventiva,2026-06-06,Cerrada,9
+OT-00523,FIL-009,Emergencia,2026-06-07,Abierta,13
+OT-00524,MOL-021,Preventiva,2026-06-08,En Proceso,18
+OT-00525,MOL-031,Predictiva,2026-06-09,En Proceso,33
+OT-00526,FLO-012,Emergencia,2026-06-10,Cerrada,29
+OT-00527,FLO-017,Predictiva,2026-06-11,En Proceso,31
+OT-00528,FIL-019,Predictiva,2026-06-12,Abierta,10
+OT-00529,MOL-026,Correctiva,2026-06-13,Cerrada,33
+OT-00530,FIL-019,Preventiva,2026-06-14,Abierta,33
+OT-00531,FLO-037,Predictiva,2026-06-15,En Proceso,19
+OT-00532,FLO-017,Emergencia,2026-06-16,En Proceso,22
+OT-00533,FLO-022,Preventiva,2026-06-17,En Proceso,2
+OT-00534,FIL-019,Emergencia,2026-06-18,Cerrada,30
+OT-00535,REL-010,Correctiva,2026-06-19,Abierta,38
+OT-00536,REL-035,Predictiva,2026-06-20,Abierta,19
+OT-00537,FLO-012,Preventiva,2026-06-21,Cerrada,22
+OT-00538,REL-015,Predictiva,2026-06-22,En Proceso,20
+OT-00539,REL-040,Preventiva,2026-06-23,Abierta,4
+OT-00540,ESP-048,Correctiva,2026-06-24,En Proceso,25
+OT-00541,FIL-034,Predictiva,2026-06-25,Abierta,29
+OT-00542,MOL-046,Preventiva,2026-06-26,Cerrada,37
+OT-00543,ESP-043,Correctiva,2026-06-27,Abierta,37
+OT-00544,REL-025,Predictiva,2026-06-28,Cerrada,20
+OT-00545,FIL-039,Preventiva,2026-06-29,Cerrada,38
+OT-00546,FLO-017,Correctiva,2026-06-30,Abierta,21
+OT-00547,FIL-024,Correctiva,2026-07-01,Cerrada,26
+OT-00548,FLO-027,Predictiva,2026-07-02,En Proceso,24
+OT-00549,FIL-049,Emergencia,2026-07-03,En Proceso,39
+OT-00550,ESP-043,Emergencia,2026-07-04,Abierta,29
+OT-00551,REL-025,Preventiva,2026-07-05,En Proceso,5
+OT-00552,ESP-033,Preventiva,2026-07-06,En Proceso,3
+OT-00553,MOL-011,Preventiva,2026-07-07,En Proceso,16
+OT-00554,MOL-041,Predictiva,2026-07-08,Cerrada,21
+OT-00555,ESP-028,Preventiva,2026-07-09,En Proceso,27
+OT-00556,FLO-027,Preventiva,2026-07-10,Cerrada,19
+OT-00557,FIL-039,Emergencia,2026-07-11,Abierta,21
+OT-00558,FLO-032,Emergencia,2026-07-12,Abierta,36
+OT-00559,mol-004,Emergencia,2026-07-13,En Proceso,14
+OT-00560,REL-015,Correctiva,2026-07-14,Abierta,20
+OT-00561,FIL-009,Predictiva,2026-07-15,Cerrada,22
+OT-00562,FLO-037,Predictiva,2026-07-16,En Proceso,19
+OT-00563,FLO-002,Preventiva,2026-07-17,Abierta,38
+OT-00564,MOL-011,Predictiva,2026-07-18,Cerrada,38
+OT-00565,REL-030,Predictiva,2026-07-19,Abierta,21
+OT-00566,REL-035,Correctiva,2026-07-20,Cerrada,18
+OT-00567,MOL-026,Emergencia,2026-07-21,Abierta,23
+OT-00568,FIL-044,Predictiva,2026-07-22,En Proceso,8
+OT-00569,MOL-046,Predictiva,2026-07-23,Abierta,17
+OT-00570,FLO-007,Predictiva,2026-07-24,En Proceso,9
+OT-00571,ESP-048,Emergencia,2026-07-25,En Proceso,6
+OT-00572,MOL-031,Predictiva,2026-07-26,En Proceso,4
+OT-00573,FLO-032,Correctiva,2026-07-27,En Proceso,23
+OT-00574,REL-005,Emergencia,2026-07-28,Abierta,1
+OT-00575,FLO-032,Predictiva,2026-07-29,En Proceso,26
+OT-00576,FLO-037,Emergencia,2026-07-30,Cerrada,17
+OT-00577,REL-030,Preventiva,2026-07-31,En Proceso,15
+OT-00578,REL-005,Correctiva,2026-08-01,En Proceso,31
+OT-00579,FLO-027,Emergencia,2026-08-02,Cerrada,22
+OT-00580,FLO-047,Predictiva,2026-08-03,Cerrada,29
+OT-00581,FLO-037,Emergencia,2026-08-04,Abierta,28
+OT-00582,FLO-007,Preventiva,2026-08-05,Abierta,2
+OT-00583,ESP-048,Preventiva,2026-08-06,Cerrada,9
+OT-00584,ESP-048,Emergencia,2026-08-07,En Proceso,23
+OT-00585,FIL-009,Correctiva,2026-08-08,Cerrada,39
+OT-00586,MOL-041,Predictiva,2026-08-09,Cerrada,7
+OT-00587,MOL-021,Correctiva,2026-08-10,Abierta,5
+OT-00588,REL-030,Correctiva,2026-08-11,Cerrada,37
+OT-00589,ESP-023,Emergencia,2026-08-12,Cerrada,38
+OT-00590,REL-040,Preventiva,2026-08-13,En Proceso,7
+OT-00591,REL-050,Emergencia,2026-08-14,En Proceso,16
+OT-00592,REL-040,Emergencia,2026-08-15,Cerrada,25
+OT-00593,FLO-047,Predictiva,2026-08-16,En Proceso,8
+OT-00594,ESP-048,Correctiva,2026-08-17,Cerrada,13
+OT-00595,REL-005,Preventiva,2026-08-18,En Proceso,16
+OT-00596,ESP-013,Predictiva,2026-08-19,Cerrada,26
+OT-00597,FLO-037,Correctiva,2026-08-20,Abierta,13
+OT-00598,REL-030,Preventiva,2026-08-21,Cerrada,17
+OT-00599,ESP-003,Correctiva,2026-08-22,Abierta,12
+OT-00600,REL-005,Emergencia,2026-08-23,Abierta,30
+OT-00601,FLO-027,Correctiva,2026-08-24,En Proceso,6
+OT-00602,MOL-031,Preventiva,2026-08-25,En Proceso,9
+OT-00603,FIL-009,Predictiva,2026-08-26,Abierta,10
+OT-00604,FIL-009,Preventiva,2026-08-27,En Proceso,36
+OT-00605,FLO-007,Emergencia,2026-08-28,Abierta,37
+OT-00606,FIL-029,Emergencia,2026-08-29,Abierta,20
+OT-00607,MOL-001,Emergencia,2026-08-30,En Proceso,7
+OT-00608,FIL-029,Emergencia,2026-08-31,Abierta,30
+OT-00609,FIL-024,Preventiva,2026-09-01,En Proceso,20
+OT-00610,FIL-024,Preventiva,2026-09-02,En Proceso,34
+OT-00611,FIL-034,Correctiva,2026-09-03,Abierta,15
+OT-00612,FLO-027,Correctiva,2026-09-04,Abierta,39
+OT-00613,FLO-037,Emergencia,2026-09-05,En Proceso,32
+OT-00614,FIL-039,Predictiva,2026-09-06,Cerrada,9
+OT-00615,FLO-047,Predictiva,2026-09-07,Cerrada,29
+OT-00616,REL-040,Emergencia,2026-09-08,Cerrada,12
+OT-00617,MOL-026,Predictiva,2026-09-09,Cerrada,14
+OT-00618,REL-025,Correctiva,2026-09-10,En Proceso,10
+OT-00619,FLO-012,Correctiva,2026-09-11,Cerrada,27
+OT-00620,REL-030,Predictiva,2026-09-12,Abierta,11
+OT-00621,FLO-007,Preventiva,2026-09-13,Cerrada,25
+OT-00622,FLO-047,Predictiva,2026-09-14,En Proceso,23
+OT-00623,ESP-043,Predictiva,2026-09-15,Abierta,30
+OT-00624,MOL-006,Predictiva,2026-09-16,Cerrada,39
+OT-00625,REL-040,Predictiva,2026-09-17,En Proceso,1
+OT-00626,MOL-006,Emergencia,2026-09-18,Cerrada,39
+OT-00627,FLO-037,Emergencia,2026-09-19,Abierta,5
+OT-00628,REL-005,Predictiva,2026-09-20,Abierta,21
+OT-00629,REL-025,Correctiva,2026-09-21,Cerrada,14
+OT-00630,ESP-033,Preventiva,2026-09-22,Cerrada,25
+OT-00631,FLO-037,Emergencia,2026-09-23,En Proceso,29
+OT-00632,MOL-021,Emergencia,2026-09-24,Cerrada,34
+OT-00633,FLO-047,Predictiva,2026-09-25,En Proceso,16
+OT-00634,FIL-039,Emergencia,2026-09-26,Abierta,37
+OT-00635,MOL-011,Emergencia,2026-09-27,Cerrada,13
+OT-00636,FIL-034,Emergencia,2026-09-28,Abierta,8
+OT-00637,FLO-037,Predictiva,2026-09-29,Cerrada,15
+OT-00638,FLO-017,Preventiva,2026-09-30,Abierta,21
+OT-00639,FLO-037,Preventiva,2026-10-01,Cerrada,27
+OT-00640,REL-045,Preventiva,2026-10-02,Cerrada,33
+OT-00641,MOL-041,Correctiva,2026-10-03,Abierta,9
+OT-00642,FIL-039,Predictiva,2026-10-04,Abierta,12
+OT-00643,FLO-032,Correctiva,2026-10-05,Cerrada,37
+OT-00644,FIL-014,Preventiva,2026-10-06,En Proceso,18
+OT-00645,REL-040,Preventiva,2026-10-07,Abierta,10
+OT-00646,FIL-019,Emergencia,2026-10-08,Cerrada,39
+OT-00647,FLO-027,Emergencia,2026-10-09,Abierta,18
+OT-00648,MOL-016,Correctiva,2026-10-10,En Proceso,39
+OT-00649,MOL-016,Emergencia,2026-10-11,Cerrada,36
+OT-00650,ESP-008,Predictiva,2026-10-12,En Proceso,36
+OT-00651,FIL-049,Emergencia,2026-10-13,Abierta,23
+OT-00652,ESP-008,Emergencia,2026-10-14,Abierta,32
+OT-00653,REL-005,Predictiva,2026-10-15,Cerrada,38
+OT-00654,FLO-047,Correctiva,2026-10-16,Cerrada,11
+OT-00655,ESP-028,Predictiva,2026-10-17,En Proceso,2
+OT-00656,FLO-022,Correctiva,2026-10-18,En Proceso,13
+OT-00657,FLO-037,Correctiva,2026-10-19,En Proceso,25
+OT-00658,REL-020,Predictiva,2026-10-20,Cerrada,22
+OT-00659,FLO-007,Predictiva,2026-10-21,Cerrada,4
+OT-00660,FLO-037,Predictiva,2026-10-22,Cerrada,22
+OT-00661,FIL-009,Correctiva,2026-10-23,Abierta,7
+OT-00662,ESP-028,Correctiva,2026-10-24,Cerrada,20
+OT-00663,ESP-048,Preventiva,2026-10-25,Cerrada,23
+OT-00664,FLO-047,Predictiva,2026-10-26,Abierta,25
+OT-00665,FIL-019,Predictiva,2026-10-27,Abierta,17
+OT-00666,REL-040,Emergencia,2026-10-28,Cerrada,16
+OT-00667,MOL-031,Predictiva,2026-10-29,Cerrada,27
+OT-00668,FIL-024,Correctiva,2026-10-30,En Proceso,30
+OT-00669,FLO-007,Preventiva,2026-10-31,Cerrada,32
+OT-00670,FIL-019,Preventiva,2026-11-01,En Proceso,14
+OT-00671,ESP-033,Correctiva,2026-11-02,Cerrada,17
+OT-00672,REL-050,Correctiva,2026-11-03,Abierta,13
+OT-00673,MOL-001,Correctiva,2026-11-04,Abierta,21
+OT-00674,MOL-036,Correctiva,2026-11-05,En Proceso,5
+OT-00675,ESP-043,Emergencia,2026-11-06,Cerrada,17
+OT-00676,ESP-048,Preventiva,2026-11-07,Abierta,8
+OT-00677,FLO-022,Correctiva,2026-11-08,Cerrada,21
+OT-00678,MOL-006,Preventiva,2026-11-09,En Proceso,34
+OT-00679,FIL-014,Correctiva,2026-11-10,Cerrada,39
+OT-00680,ESP-043,Predictiva,2026-11-11,Abierta,18
+OT-00681,FIL-044,Preventiva,2026-11-12,Abierta,3
+OT-00682,FLO-032,Correctiva,2026-11-13,En Proceso,9
+OT-00683,FLO-007,Preventiva,2026-11-14,En Proceso,5
+OT-00684,FLO-007,Emergencia,2026-11-15,En Proceso,30
+OT-00685,FIL-024,Predictiva,2026-11-16,En Proceso,39
+OT-00686,REL-030,Preventiva,2026-11-17,Abierta,22
+OT-00687,FLO-002,Preventiva,2026-11-18,Abierta,7
+OT-00688,REL-035,Preventiva,2026-11-19,Abierta,1
+OT-00689,ESP-028,Correctiva,2026-11-20,Abierta,39
+OT-00690,MOL-001,Emergencia,2026-11-21,En Proceso,13
+OT-00691,REL-005,Predictiva,2026-11-22,En Proceso,5
+OT-00692,ESP-023,Emergencia,2026-11-23,Abierta,7
+OT-00693,FLO-037,Correctiva,2026-11-24,En Proceso,10
+OT-00694,FLO-042,Correctiva,2026-11-25,Cerrada,26
+OT-00695,FLO-022,Correctiva,2026-11-26,Abierta,35
+OT-00696,REL-015,Preventiva,2026-11-27,En Proceso,11
+OT-00697,FIL-049,Emergencia,2026-11-28,En Proceso,27
+OT-00698,ESP-023,Preventiva,2026-11-29,Cerrada,3
+OT-00699,MOL-016,Correctiva,2026-11-30,En Proceso,1
+OT-00700,ESP-023,Predictiva,2026-12-01,Cerrada,3
+OT-00701,MOL-001,Preventiva,2026-12-02,En Proceso,37
+OT-00702,MOL-016,Correctiva,2026-12-03,Cerrada,23
+OT-00703,MOL-026,Correctiva,2026-12-04,En Proceso,32
+OT-00704,MOL-046,Correctiva,2026-12-05,Abierta,1
+OT-00705,FLO-037,Preventiva,2026-12-06,Abierta,1
+OT-00706,REL-040,Preventiva,2026-12-07,En Proceso,34
+OT-00707,ESP-028,Preventiva,2026-12-08,Abierta,5
+OT-00708,MOL-006,Correctiva,2026-12-09,Abierta,7
+OT-00709,REL-020,Preventiva,2026-12-10,En Proceso,21
+OT-00710,REL-050,Emergencia,2026-12-11,Abierta,24
+OT-00711,ESP-003,Preventiva,2026-12-12,Cerrada,9
+OT-00712,FIL-044,Predictiva,2026-12-13,Abierta,18
+OT-00713,REL-035,Predictiva,2026-12-14,Abierta,27
+OT-00714,REL-015,Correctiva,2026-12-15,En Proceso,18
+OT-00715,FIL-039,Emergencia,2026-12-16,Abierta,15
+OT-00716,FLO-042,Preventiva,2026-12-17,Abierta,3
+OT-00717,ESP-003,Preventiva,2026-12-18,En Proceso,18
+OT-00718,MOL-006,Correctiva,2026-12-19,En Proceso,32
+OT-00719,FIL-034,Preventiva,2026-12-20,Abierta,25
+OT-00720,REL-050,Correctiva,2026-12-21,En Proceso,35
+OT-00721,FLO-002,Correctiva,2026-12-22,Cerrada,5
+OT-00722,FIL-034,Emergencia,2026-12-23,En Proceso,1
+OT-00723,FLO-007,Correctiva,2026-12-24,Abierta,22
+OT-00724,ESP-033,Emergencia,2026-12-25,En Proceso,7
+OT-00725,FLO-032,Emergencia,2026-12-26,Cerrada,24
+OT-00726,REL-005,Emergencia,2026-12-27,En Proceso,36
+OT-00727,REL-035,Preventiva,2026-12-28,Cerrada,14
+OT-00728,REL-045,Emergencia,2026-12-29,En Proceso,22
+OT-00729,FIL-044,Predictiva,2026-12-30,Cerrada,27
+OT-00730,FLO-002,Emergencia,2026-12-31,Abierta,6
+OT-00731,ESP-013,Correctiva,2027-01-01,En Proceso,35
+OT-00732,ESP-013,Emergencia,2027-01-02,En Proceso,8
+OT-00733,ESP-023,Predictiva,2027-01-03,Abierta,32
+OT-00734,ESP-008,Preventiva,2027-01-04,Cerrada,26
+OT-00735,ESP-043,Correctiva,2027-01-05,Cerrada,6
+OT-00736,FIL-039,Preventiva,2027-01-06,Cerrada,29
+OT-00737,MOL-041,Emergencia,2027-01-07,En Proceso,8
+OT-00738,REL-010,Correctiva,2027-01-08,En Proceso,24
+OT-00739,MOL-001,Preventiva,2027-01-09,Abierta,38
+OT-00740,MOL-046,Predictiva,2027-01-10,En Proceso,38
+OT-00741,REL-015,Correctiva,2027-01-11,Cerrada,34
+OT-00742,ESP-033,Preventiva,2027-01-12,En Proceso,20
+OT-00743,MOL-046,Emergencia,2027-01-13,En Proceso,22
+OT-00744,FLO-002,Emergencia,2027-01-14,Cerrada,12
+OT-00745,MOL-001,Predictiva,2027-01-15,Cerrada,36
+OT-00746,MOL-001,Predictiva,2027-01-16,Cerrada,19
+OT-00747,ESP-008,Correctiva,2027-01-17,En Proceso,31
+OT-00748,ESP-003,Predictiva,2027-01-18,Cerrada,15
+OT-00749,MOL-041,Predictiva,2027-01-19,Abierta,29
+OT-00750,MOL-031,Preventiva,2027-01-20,Cerrada,9
+OT-00751,REL-050,Preventiva,2027-01-21,Abierta,29
+OT-00752,MOL-041,Correctiva,2027-01-22,Cerrada,2
+OT-00753,FIL-049,Correctiva,2027-01-23,Abierta,5
+OT-00754,FLO-012,Preventiva,2027-01-24,Abierta,14
+OT-00755,REL-015,Preventiva,2027-01-25,En Proceso,19
+OT-00756,ESP-043,Emergencia,2027-01-26,Abierta,28
+OT-00757,ESP-013,Correctiva,2027-01-27,Cerrada,15
+OT-00758,ESP-003,Predictiva,2027-01-28,En Proceso,1
+OT-00759,FIL-034,Predictiva,2027-01-29,En Proceso,13
+OT-00760,MOL-041,Predictiva,2027-01-30,Cerrada,18
+OT-00761,FIL-049,Predictiva,2027-01-31,Abierta,22
+OT-00762,FLO-047,Correctiva,2027-02-01,En Proceso,26
+OT-00763,FLO-007,Emergencia,2027-02-02,En Proceso,10
+OT-00764,FIL-039,Correctiva,2027-02-03,Cerrada,24
+OT-00765,ESP-043,Emergencia,2027-02-04,Abierta,25
+OT-00766,REL-035,Correctiva,2027-02-05,Abierta,31
+OT-00767,MOL-041,Preventiva,2027-02-06,Abierta,21
+OT-00768,FLO-042,Emergencia,2027-02-07,Abierta,32
+OT-00769,ESP-023,Preventiva,2027-02-08,En Proceso,9
+OT-00770,ESP-003,Emergencia,2027-02-09,Abierta,28
+OT-00771,ESP-023,Preventiva,2027-02-10,Abierta,2
+OT-00772,MOL-011,Preventiva,2027-02-11,En Proceso,5
+OT-00773,MOL-006,Predictiva,2027-02-12,En Proceso,34
+OT-00774,FLO-007,Emergencia,2027-02-13,Abierta,19
+OT-00775,REL-035,Correctiva,2027-02-14,Cerrada,25
+OT-00776,MOL-026,Preventiva,2027-02-15,Cerrada,24
+OT-00777,FLO-027,Preventiva,2027-02-16,Cerrada,28
+OT-00778,ESP-038,Emergencia,2027-02-17,En Proceso,10
+OT-00779,ESP-028,Predictiva,2027-02-18,En Proceso,7
+OT-00780,FLO-032,Preventiva,2027-02-19,En Proceso,2
+OT-00781,REL-005,Correctiva,2027-02-20,Abierta,34
+OT-00782,ESP-043,Correctiva,2027-02-21,Abierta,9
+OT-00783,ESP-023,Preventiva,2027-02-22,Cerrada,23
+OT-00784,ESP-008,Emergencia,2027-02-23,Abierta,18
+OT-00785,MOL-041,Predictiva,2027-02-24,Cerrada,7
+OT-00786,FLO-037,Preventiva,2027-02-25,Abierta,17
+OT-00787,ESP-003,Predictiva,2027-02-26,En Proceso,4
+OT-00788,REL-010,Correctiva,2027-02-27,Abierta,7
+OT-00789,MOL-001,Preventiva,2027-02-28,Abierta,6
+OT-00790,FIL-014,Correctiva,2027-03-01,Abierta,33
+OT-00791,REL-005,Preventiva,2027-03-02,Abierta,23
+OT-00792,MOL-036,Preventiva,2027-03-03,Cerrada,37
+OT-00793,FLO-027,Emergencia,2027-03-04,Cerrada,18
+OT-00794,REL-050,Predictiva,2027-03-05,En Proceso,8
+OT-00795,ESP-038,Preventiva,2027-03-06,Abierta,24
+OT-00796,MOL-031,Emergencia,2027-03-07,Cerrada,37
+OT-00797,MOL-026,Predictiva,2027-03-08,Cerrada,21
+OT-00798,ESP-003,Emergencia,2027-03-09,Cerrada,1
+OT-00799,mol-004,Predictiva,2027-03-10,En Proceso,12
+OT-00800,MOL-031,Correctiva,2027-03-11,Abierta,37
+OT-00801,MOL-001,Predictiva,2027-03-12,Cerrada,21
+OT-00802,ESP-003,Predictiva,2027-03-13,En Proceso,38
+OT-00803,MOL-011,Predictiva,2027-03-14,En Proceso,20
+OT-00804,REL-045,Preventiva,2027-03-15,Cerrada,1
+OT-00805,ESP-023,Correctiva,2027-03-16,Cerrada,35
+OT-00806,MOL-036,Preventiva,2027-03-17,En Proceso,30
+OT-00807,MOL-021,Correctiva,2027-03-18,Cerrada,28
+OT-00808,FIL-009,Preventiva,2027-03-19,En Proceso,38
+OT-00809,FIL-019,Preventiva,2027-03-20,Abierta,8
+OT-00810,REL-005,Emergencia,2027-03-21,Cerrada,36
+OT-00811,FIL-039,Preventiva,2027-03-22,Abierta,10
+OT-00812,REL-010,Emergencia,2027-03-23,Abierta,38
+OT-00813,FIL-019,Preventiva,2027-03-24,Cerrada,8
+OT-00814,REL-050,Emergencia,2027-03-25,Abierta,22
+OT-00815,REL-030,Correctiva,2027-03-26,Cerrada,31
+OT-00816,ESP-023,Predictiva,2027-03-27,Cerrada,4
+OT-00817,ESP-028,Correctiva,2027-03-28,Cerrada,3
+OT-00818,REL-040,Correctiva,2027-03-29,En Proceso,34
+OT-00819,ESP-013,Correctiva,2027-03-30,En Proceso,3
+OT-00820,FLO-032,Predictiva,2027-03-31,Cerrada,24
+OT-00821,FIL-044,Correctiva,2027-04-01,Abierta,37
+OT-00822,FIL-029,Predictiva,2027-04-02,En Proceso,24
+OT-00823,ESP-023,Emergencia,2027-04-03,Abierta,19
+OT-00824,ESP-008,Correctiva,2027-04-04,Cerrada,17
+OT-00825,ESP-013,Correctiva,2027-04-05,Cerrada,25
+OT-00826,ESP-048,Preventiva,2027-04-06,Abierta,23
+OT-00827,ESP-028,Correctiva,2027-04-07,Cerrada,20
+OT-00828,MOL-016,Preventiva,2027-04-08,Abierta,6
+OT-00829,MOL-021,Preventiva,2027-04-09,Abierta,26
+OT-00830,FIL-029,Emergencia,2027-04-10,Cerrada,29
+OT-00831,FLO-027,Preventiva,2027-04-11,Abierta,28
+OT-00832,REL-035,Correctiva,2027-04-12,En Proceso,3
+OT-00833,ESP-013,Emergencia,2027-04-13,Abierta,28
+OT-00834,ESP-033,Emergencia,2027-04-14,Cerrada,29
+OT-00835,ESP-023,Preventiva,2027-04-15,En Proceso,8
+OT-00836,ESP-048,Preventiva,2027-04-16,Abierta,34
+OT-00837,ESP-008,Correctiva,2027-04-17,En Proceso,21
+OT-00838,ESP-008,Predictiva,2027-04-18,En Proceso,19
+OT-00839,FIL-024,Emergencia,2027-04-19,En Proceso,29
+OT-00840,MOL-026,Preventiva,2027-04-20,Abierta,20
+OT-00841,REL-035,Preventiva,2027-04-21,En Proceso,22
+OT-00842,MOL-021,Correctiva,2027-04-22,En Proceso,13
+OT-00843,MOL-046,Emergencia,2027-04-23,En Proceso,37
+OT-00844,FIL-024,Preventiva,2027-04-24,Abierta,38
+OT-00845,FLO-007,Correctiva,2027-04-25,En Proceso,6
+OT-00846,MOL-006,Preventiva,2027-04-26,Abierta,29
+OT-00847,FIL-049,Preventiva,2027-04-27,Cerrada,1
+OT-00848,FLO-007,Emergencia,2027-04-28,Cerrada,15
+OT-00849,ESP-048,Preventiva,2027-04-29,Cerrada,38
+OT-00850,FIL-014,Correctiva,2027-04-30,Cerrada,7
+OT-00851,REL-005,Emergencia,2027-05-01,Abierta,15
+OT-00852,MOL-016,Predictiva,2027-05-02,Cerrada,9
+OT-00853,MOL-031,Preventiva,2027-05-03,En Proceso,29
+OT-00854,FLO-022,Correctiva,2027-05-04,Cerrada,19
+OT-00855,REL-040,Emergencia,2027-05-05,Abierta,24
+OT-00856,MOL-031,Correctiva,2027-05-06,En Proceso,37
+OT-00857,MOL-021,Predictiva,2027-05-07,Abierta,21
+OT-00858,FLO-032,Predictiva,2027-05-08,Cerrada,29
+OT-00859,FIL-049,Predictiva,2027-05-09,Cerrada,4
+OT-00860,MOL-021,Preventiva,2027-05-10,Cerrada,9
+OT-00861,ESP-008,Emergencia,2027-05-11,En Proceso,37
+OT-00862,MOL-021,Emergencia,2027-05-12,Cerrada,34
+OT-00863,ESP-043,Preventiva,2027-05-13,En Proceso,26
+OT-00864,MOL-011,Emergencia,2027-05-14,Abierta,15
+OT-00865,ESP-048,Emergencia,2027-05-15,En Proceso,8
+OT-00866,REL-030,Predictiva,2027-05-16,Cerrada,34
+OT-00867,MOL-031,Correctiva,2027-05-17,Abierta,31
+OT-00868,MOL-016,Correctiva,2027-05-18,Abierta,10
+OT-00869,FLO-047,Emergencia,2027-05-19,En Proceso,24
+OT-00870,FLO-002,Preventiva,2027-05-20,Cerrada,25
+OT-00871,REL-015,Emergencia,2027-05-21,Cerrada,19
+OT-00872,MOL-021,Emergencia,2027-05-22,Abierta,37
+OT-00873,FIL-024,Predictiva,2027-05-23,Cerrada,5
+OT-00874,FIL-024,Correctiva,2027-05-24,En Proceso,11
+OT-00875,ESP-008,Predictiva,2027-05-25,Abierta,4
+OT-00876,FLO-012,Preventiva,2027-05-26,Cerrada,28
+OT-00877,REL-005,Emergencia,2027-05-27,Cerrada,26
+OT-00878,FIL-029,Correctiva,2027-05-28,En Proceso,39
+OT-00879,ESP-018,Preventiva,2027-05-29,Abierta,22
+OT-00880,FIL-029,Emergencia,2027-05-30,Cerrada,6
+OT-00881,REL-030,Predictiva,2027-05-31,En Proceso,18
+OT-00882,MOL-036,Predictiva,2027-06-01,Abierta,4
+OT-00883,ESP-028,Preventiva,2027-06-02,En Proceso,27
+OT-00884,ESP-033,Emergencia,2027-06-03,En Proceso,27
+OT-00885,REL-030,Predictiva,2027-06-04,En Proceso,34
+OT-00886,ESP-033,Emergencia,2027-06-05,Cerrada,14
+OT-00887,MOL-031,Emergencia,2027-06-06,En Proceso,13
+OT-00888,MOL-016,Preventiva,2027-06-07,En Proceso,3
+OT-00889,ESP-013,Preventiva,2027-06-08,En Proceso,17
+OT-00890,REL-040,Emergencia,2027-06-09,Cerrada,19
+OT-00891,ESP-018,Predictiva,2027-06-10,Cerrada,30
+OT-00892,ESP-028,Correctiva,2027-06-11,Cerrada,30
+OT-00893,REL-010,Correctiva,2027-06-12,Abierta,6
+OT-00894,FLO-022,Predictiva,2027-06-13,En Proceso,12
+OT-00895,FLO-027,Emergencia,2027-06-14,En Proceso,20
+OT-00896,FLO-032,Preventiva,2027-06-15,Cerrada,14
+OT-00897,FLO-027,Predictiva,2027-06-16,Abierta,1
+OT-00898,FIL-019,Emergencia,2027-06-17,Cerrada,33
+OT-00899,FIL-049,Correctiva,2027-06-18,Cerrada,29
+OT-00900,MOL-026,Correctiva,2027-06-19,Cerrada,21
+OT-00901,MOL-041,Emergencia,2027-06-20,En Proceso,13
+OT-00902,FLO-037,Preventiva,2027-06-21,En Proceso,33
+OT-00903,ESP-028,Correctiva,2027-06-22,En Proceso,2
+OT-00904,REL-045,Correctiva,2027-06-23,En Proceso,18
+OT-00905,FLO-007,Emergencia,2027-06-24,En Proceso,32
+OT-00906,FLO-047,Preventiva,2027-06-25,Cerrada,38
+OT-00907,ESP-043,Correctiva,2027-06-26,Cerrada,10
+OT-00908,MOL-026,Preventiva,2027-06-27,Cerrada,26
+OT-00909,FLO-037,Emergencia,2027-06-28,Cerrada,8
+OT-00910,FLO-027,Predictiva,2027-06-29,En Proceso,5
+OT-00911,FIL-014,Correctiva,2027-06-30,Cerrada,14
+OT-00912,REL-040,Correctiva,2027-07-01,Cerrada,35
+OT-00913,ESP-013,Preventiva,2027-07-02,Abierta,27
+OT-00914,MOL-016,Emergencia,2027-07-03,En Proceso,20
+OT-00915,MOL-026,Predictiva,2027-07-04,Cerrada,12
+OT-00916,FLO-042,Correctiva,2027-07-05,Cerrada,6
+OT-00917,REL-020,Correctiva,2027-07-06,Cerrada,11
+OT-00918,REL-025,Predictiva,2027-07-07,Abierta,6
+OT-00919,ESP-003,Predictiva,2027-07-08,Cerrada,8
+OT-00920,MOL-006,Correctiva,2027-07-09,En Proceso,27
+OT-00921,ESP-003,Correctiva,2027-07-10,Cerrada,6
+OT-00922,mol-004,Predictiva,2027-07-11,Abierta,2
+OT-00923,FIL-044,Predictiva,2027-07-12,Cerrada,22
+OT-00924,ESP-043,Predictiva,2027-07-13,Abierta,12
+OT-00925,FLO-042,Preventiva,2027-07-14,Cerrada,18
+OT-00926,ESP-003,Correctiva,2027-07-15,Cerrada,6
+OT-00927,mol-004,Predictiva,2027-07-16,Abierta,9
+OT-00928,REL-015,Emergencia,2027-07-17,En Proceso,18
+OT-00929,FIL-029,Predictiva,2027-07-18,Abierta,27
+OT-00930,FLO-017,Correctiva,2027-07-19,En Proceso,17
+OT-00931,REL-025,Predictiva,2027-07-20,En Proceso,22
+OT-00932,FIL-009,Preventiva,2027-07-21,Abierta,21
+OT-00933,FLO-037,Preventiva,2027-07-22,Cerrada,11
+OT-00934,MOL-016,Predictiva,2027-07-23,Abierta,11
+OT-00935,mol-004,Emergencia,2027-07-24,Abierta,17
+OT-00936,ESP-038,Emergencia,2027-07-25,En Proceso,2
+OT-00937,MOL-046,Predictiva,2027-07-26,En Proceso,27
+OT-00938,MOL-001,Preventiva,2027-07-27,Abierta,24
+OT-00939,FLO-022,Emergencia,2027-07-28,Abierta,12
+OT-00940,FLO-042,Correctiva,2027-07-29,Abierta,15
+OT-00941,MOL-036,Correctiva,2027-07-30,Cerrada,13
+OT-00942,ESP-043,Emergencia,2027-07-31,Abierta,26
+OT-00943,MOL-021,Predictiva,2027-08-01,Abierta,30
+OT-00944,FIL-019,Predictiva,2027-08-02,Cerrada,5
+OT-00945,MOL-036,Correctiva,2027-08-03,Abierta,17
+OT-00946,ESP-008,Emergencia,2027-08-04,En Proceso,1
+OT-00947,FLO-012,Correctiva,2027-08-05,En Proceso,18
+OT-00948,MOL-031,Predictiva,2027-08-06,En Proceso,10
+OT-00949,FIL-034,Emergencia,2027-08-07,Abierta,14
+OT-00950,MOL-006,Predictiva,2027-08-08,En Proceso,18
+OT-00951,MOL-026,Preventiva,2027-08-09,En Proceso,13
+OT-00952,FIL-019,Correctiva,2027-08-10,Abierta,16
+OT-00953,MOL-026,Correctiva,2027-08-11,En Proceso,30
+OT-00954,ESP-048,Emergencia,2027-08-12,Cerrada,32
+OT-00955,mol-004,Predictiva,2027-08-13,En Proceso,1
+OT-00956,REL-050,Correctiva,2027-08-14,Cerrada,15
+OT-00957,ESP-023,Predictiva,2027-08-15,En Proceso,34
+OT-00958,FIL-039,Predictiva,2027-08-16,Abierta,21
+OT-00959,FLO-022,Correctiva,2027-08-17,Cerrada,9
+OT-00960,MOL-016,Correctiva,2027-08-18,Abierta,24
+OT-00961,FIL-039,Emergencia,2027-08-19,Abierta,6
+OT-00962,REL-035,Predictiva,2027-08-20,Abierta,1
+OT-00963,ESP-008,Preventiva,2027-08-21,Cerrada,25
+OT-00964,MOL-036,Predictiva,2027-08-22,Abierta,21
+OT-00965,ESP-038,Predictiva,2027-08-23,En Proceso,30
+OT-00966,REL-020,Predictiva,2027-08-24,Cerrada,14
+OT-00967,FLO-047,Predictiva,2027-08-25,En Proceso,34
+OT-00968,ESP-033,Emergencia,2027-08-26,En Proceso,17
+OT-00969,FLO-017,Correctiva,2027-08-27,Abierta,29
+OT-00970,MOL-001,Correctiva,2027-08-28,Abierta,4
+OT-00971,FIL-034,Preventiva,2027-08-29,Cerrada,4
+OT-00972,MOL-011,Predictiva,2027-08-30,Cerrada,31
+OT-00973,ESP-038,Correctiva,2027-08-31,Abierta,33
+OT-00974,FLO-027,Correctiva,2027-09-01,En Proceso,37
+OT-00975,FIL-024,Predictiva,2027-09-02,Cerrada,13
+OT-00976,FIL-009,Correctiva,2027-09-03,En Proceso,1
+OT-00977,MOL-036,Correctiva,2027-09-04,Abierta,39
+OT-00978,FIL-009,Correctiva,2027-09-05,En Proceso,24
+OT-00979,MOL-021,Correctiva,2027-09-06,Abierta,10
+OT-00980,FLO-042,Preventiva,2027-09-07,Cerrada,30
+OT-00981,FLO-047,Emergencia,2027-09-08,Cerrada,36
+OT-00982,REL-050,Preventiva,2027-09-09,En Proceso,12
+OT-00983,ESP-048,Correctiva,2027-09-10,Abierta,31
+OT-00984,ESP-028,Predictiva,2027-09-11,Abierta,31
+OT-00985,MOL-011,Preventiva,2027-09-12,Cerrada,20
+OT-00986,FLO-042,Predictiva,2027-09-13,Cerrada,25
+OT-00987,MOL-041,Predictiva,2027-09-14,Abierta,11
+OT-00988,REL-050,Predictiva,2027-09-15,Abierta,37
+OT-00989,ESP-033,Correctiva,2027-09-16,Abierta,39
+OT-00990,ESP-008,Preventiva,2027-09-17,Cerrada,39
+OT-00991,MOL-026,Emergencia,2027-09-18,Cerrada,29
+OT-00992,ESP-023,Correctiva,2027-09-19,Cerrada,2
+OT-00993,ESP-043,Emergencia,2027-09-20,En Proceso,15
+OT-00994,REL-020,Preventiva,2027-09-21,Abierta,18
+OT-00995,FLO-017,Preventiva,2027-09-22,En Proceso,38
+OT-00996,REL-005,Emergencia,2027-09-23,En Proceso,22
+OT-00997,FLO-042,Emergencia,2027-09-24,Abierta,21
+OT-00998,ESP-038,Emergencia,2027-09-25,Abierta,6
+OT-00999,ESP-003,Emergencia,2027-09-26,Abierta,31
+OT-01000,FLO-022,Preventiva,2027-09-27,Abierta,14

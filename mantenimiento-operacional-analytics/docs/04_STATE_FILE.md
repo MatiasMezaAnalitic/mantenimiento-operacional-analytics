@@ -48,7 +48,7 @@ Semana activa:
 
 Día activo:
 
-1
+3
 
 ---
 
@@ -117,7 +117,7 @@ Estructura vigente:
 
 Power Query:
 
-0
+1
 
 Power BI:
 
@@ -133,17 +133,27 @@ SAP:
 
 Inglés Técnico:
 
-0
+0.25
 
 Total Roadmap:
 
-0
+1.25
 
 ---
 
 # HABILIDADES VALIDADAS
 
-Sin habilidades registradas aún.
+Nivel observado:
+L2
+
+Habilidades validadas:
+
+- Cambio de tipos de datos
+- Normalización de texto
+- Renombrado de pasos
+- Filtrado por criterios operacionales
+- Comprensión de flujo ETL
+- Diferenciación entre transformación y filtrado
 
 ---
 
@@ -226,6 +236,7 @@ Resultado:
 Validado
 
 ---
+
 
 # REGISTRO DE ARCHIVOS
 
@@ -521,3 +532,170 @@ Sistema operativo inicializado.
 Resultado:
 
 Entorno preparado para iniciar Fase 1.
+
+## LOG-2026-06-03-001
+
+Fecha:
+
+2026-06-03
+
+Fase:
+
+FASE 0 — Preparación Entorno
+
+Semana:
+
+1
+
+Día:
+
+2
+
+Actividad realizada:
+
+Validación conceptual de arquitectura ETL y flujo analítico.
+
+Se definió el rol de Power Query dentro del proceso de toma de decisiones operacionales.
+
+Se revisó la diferencia entre Excel y Power Query.
+
+Se identificó un caso de aplicación real relacionado con costos asociados a órdenes de trabajo.
+
+Archivos creados:
+
+Ninguno
+
+Archivos modificados:
+
+02_ROADMAP_MASTER.md
+
+Tiempo invertido:
+
+60 minutos
+
+Aprendizajes:
+
+* Power Query trabaja sobre procesos y no sobre datos individuales.
+* ETL permite construir procesos repetibles para transformar datos operacionales.
+* El objetivo de Power Query es generar datos confiables para la toma de decisiones.
+* El valor operacional se genera a través de toda la cadena dato → información → análisis → decisión.
+
+Problemas encontrados:
+
+Ninguno
+
+Evidencia generada:
+
+* Comprensión validada de conceptos ETL.
+* Caso de uso identificado para análisis de costos asociados a OT.
+
+Próximo paso:
+
+Iniciar FASE 1 mediante construcción del primer flujo ETL práctico.
+
+Semana: 1
+Día: 3
+
+Actividad:
+Análisis exploratorio inicial de dataset industrial.
+
+Dataset:
+Equipos.csv
+
+Aprendizajes:
+- Validación de estructura de tabla.
+- Identificación de tipos de datos.
+- Detección de inconsistencias de formato.
+- Comprensión del concepto de calidad de datos previa a transformación.
+
+Hallazgos:
+- Inconsistencia detectada en EquipoID:
+  MOL-XXX vs mol-004
+
+Tiempo invertido:
+~45 minutos
+
+Estado:
+Completado
+
+Próximo paso:
+Primeras transformaciones controladas en Power Query.
+
+Semana: 1
+Día: 4
+
+Actividad:
+Primera transformación ETL en Power Query.
+
+Dataset:
+Equipos.csv
+
+Transformaciones realizadas:
+- Normalización de EquipoID.
+- Conversión a mayúsculas.
+- Renombrado de paso aplicado.
+
+Aprendizajes:
+- Diferencia entre modificar datos y modificar procesos.
+- Importancia de la reutilización.
+- Comprensión de pasos aplicados.
+- Introducción al concepto de trazabilidad ETL.
+
+Tiempo invertido:
+~45 minutos
+
+Estado:
+Completado
+
+Próximo paso:
+Limpieza y filtrado profesional de registros.
+
+## LOG-2026-W23
+
+Fecha inicio:
+2026-06-02
+
+Fase:
+FASE 1 — Power Query + ETL Operacional
+
+Semana:
+1
+
+Estado:
+EN PROGRESO
+
+Actividades realizadas:
+
+- Creación de repositorio GitHub.
+- Creación de estructura de carpetas del proyecto.
+- Creación de documentación base.
+- Comprensión conceptual de ETL.
+- Comprensión del rol de Power Query.
+- Carga de dataset industrial de entrenamiento.
+- Tipificación de columnas.
+- Normalización de identificadores.
+- Filtrado por criticidad.
+- Filtrado por potencia.
+
+Aprendizajes relevantes:
+
+- Power Query trabaja sobre procesos y no sobre datos individuales.
+- La repetibilidad es el principal valor de un ETL.
+- Una transformación modifica los datos.
+- Un filtro determina qué datos participan del análisis.
+- Los criterios de negocio son los que definen qué información tiene valor.
+
+Tiempo acumulado:
+~4 horas
+
+Evidencias:
+
+- Repositorio GitHub operativo.
+- Dataset industrial cargado.
+- Consulta Power Query funcional.
+- Primer flujo ETL documentado.
+
+Próximo paso:
+
+- Ordenamiento y priorización de datos.
+- Introducción a Append.
