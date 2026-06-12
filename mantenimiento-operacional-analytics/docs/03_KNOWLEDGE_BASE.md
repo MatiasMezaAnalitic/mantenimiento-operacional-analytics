@@ -64,6 +64,8 @@ L2
 
 ---
 
+# NIVEL 1 — HERRAMIENTAS ETL
+
 ## Dominadas
 
 Nivel: L3
@@ -73,6 +75,10 @@ Nivel: L3
 * Reemplazos
 * Transformaciones básicas
 * Limpieza básica de datos
+* Append
+* Merge
+* Folder Import
+* Funciones básicas
 
 ---
 
@@ -80,12 +86,7 @@ Nivel: L3
 
 Nivel: L2
 
-* Append
-* Merge
-* Consolidación multi-tabla
-* Columnas condicionales
-* Diseño ETL
-* Trazabilidad ETL
+* Parámetros
 
 ---
 
@@ -93,11 +94,69 @@ Nivel: L2
 
 Nivel: L0
 
-* Folder Import
-* Parámetros
-* Funciones personalizadas
 * Lenguaje M
+
+---
+
+# NIVEL 2 — DISEÑO ETL
+
+## Nivel General
+
+L1
+
+---
+
+## Dominadas
+
+* Ninguna validada
+
+---
+
+## En Desarrollo
+
+* Consolidación multi-tabla
+* Diseño ETL
+* Trazabilidad ETL
+
+---
+
+## No Visto o No Validado
+
+* Calidad de datos
+* Integración múltiples fuentes
 * ETL reutilizable
+* Tabla maestra operacional
+
+---
+
+# NIVEL 3 — PREPARACIÓN ANALÍTICA
+
+## Nivel General
+
+L0
+
+---
+
+## Dominadas
+
+* Ninguna validada
+
+---
+
+## En Desarrollo
+
+* Ninguna validada
+
+---
+
+## No Visto o No Validado
+
+* Granularidad
+* Diseño de KPIs
+* Tablas hecho
+* Tablas dimensión
+* Modelo estrella
+* Preparación para Power BI
 
 ---
 

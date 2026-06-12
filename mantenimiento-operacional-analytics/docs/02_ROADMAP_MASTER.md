@@ -298,16 +298,73 @@ Objetivo:
 
 Diseñar y automatizar procesos ETL industriales.
 
+---
+
+### NIVEL 1 — HERRAMIENTAS ETL
+
+Objetivo:
+
+Dominar las herramientas fundamentales de Power Query.
+
 Competencias objetivo:
 
+* Tipificación
+* Transformaciones
+* Filtros
 * Append
 * Merge
 * Folder Import
 * Parámetros
-* Funciones
-* Lenguaje M básico
+* Funciones básicas
+
+Resultado esperado:
+
+Capacidad de construir ETL simples y repetibles.
+
+---
+
+### NIVEL 2 — DISEÑO ETL
+
+Objetivo:
+
+Diseñar flujos completos de integración operacional.
+
+Competencias objetivo:
+
+* Integración múltiples fuentes
+* Calidad de datos
+* Normalización
+* Diseño ETL
 * Automatización
+* ETL reutilizable
 * Trazabilidad ETL
+
+Resultado esperado:
+
+Capacidad de construir tablas maestras operacionales.
+
+---
+
+### NIVEL 3 — PREPARACIÓN ANALÍTICA
+
+Objetivo:
+
+Preparar datos para análisis y modelado posterior.
+
+Competencias objetivo:
+
+* Granularidad
+* Diseño de KPIs
+* Tablas hecho
+* Tablas dimensión
+* Preparación modelo estrella
+* Estructura para Power BI
+
+Resultado esperado:
+
+Capacidad de alimentar modelos analíticos profesionales.
+
+---
 
 Proyecto fase:
 
@@ -322,11 +379,52 @@ Incluye:
 * Fallas
 * Detenciones
 * Combustible
+* Equipos
+* Turnos
 
-Criterio de salida:
+---
 
-ETL funcional completamente automatizado.
+CRITERIOS DE SALIDA
 
+### Nivel 1
+
+□ Tipificación
+
+□ Transformaciones
+
+□ Filtros
+
+□ Append
+
+□ Merge
+
+□ Folder Import
+
+□ Parámetros
+
+□ Funciones básicas
+
+---
+
+### Nivel 2
+
+□ Integración múltiples fuentes
+
+□ Calidad de datos
+
+□ ETL reutilizable
+
+□ Tabla maestra operacional
+
+---
+
+### Nivel 3
+
+□ Diseño de KPIs
+
+□ Preparación modelo estrella
+
+□ Modelo analítico validado
 ---
 
 # FASE 2
@@ -459,137 +557,243 @@ Básico-intermedio operacional.
 
 # FASE 6
 
-## INGLÉS TÉCNICO INDUSTRIAL
+## INGLÉS OPERACIONAL PROFESIONAL
 
 Duración:
 
-Continua
+Continua durante todo el roadmap.
 
+Prioridad:
 
-### ESTRATEGIA DE INGLÉS TÉCNICO INDUSTRIAL
+Crítica.
 
-#### Objetivo
+---
 
-Desarrollar capacidad real de comunicación profesional en contextos industriales.
+## OBJETIVO GENERAL
 
-El objetivo NO es memorizar vocabulario.
+Desarrollar capacidad real de comprensión y comunicación en inglés para contextos profesionales.
+
+El objetivo NO es estudiar gramática de forma aislada.
+
+El objetivo NO es memorizar listas de vocabulario.
 
 El objetivo es poder:
 
-* entender reuniones técnicas
+* comprender inglés hablado en velocidad real
 * participar en reuniones
-* explicar KPIs
-* explicar dashboards
-* describir problemas operacionales
-* presentar proyectos
+* explicar análisis y resultados
+* presentar dashboards
+* defender proyectos
 * desenvolverse en entrevistas laborales
+* comunicarse con equipos internacionales
 
 ---
 
-#### Distribución Recomendada
+## PRINCIPIO DE APRENDIZAJE
 
-##### 40% Listening
+El inglés se desarrollará principalmente mediante exposición continua al idioma.
 
-Actividades:
+La prioridad es:
 
-* YouTube técnico
-* Podcasts industriales
-* Presentaciones Power BI
-* Presentaciones Lean Six Sigma
-* Reuniones simuladas
+Comprender → Repetir → Hablar
 
-Objetivo:
+No:
 
-Acostumbrar el oído al inglés real.
+Memorizar → Traducir → Olvidar
 
 ---
 
-##### 30% Shadowing
+## DISTRIBUCIÓN RECOMENDADA
 
-Actividades:
+### 65% Listening
 
-* repetir frases inmediatamente después del hablante
-* copiar pronunciación
-* copiar ritmo
-* copiar entonación
+### 25% Shadowing
 
-Objetivo:
-
-Automatizar producción oral.
+### 10% Speaking
 
 ---
 
-##### 20% Speaking
+## LISTENING
 
-Actividades:
+### Objetivo
 
-* explicar dashboards
-* describir KPIs
-* resumir videos
-* responder preguntas técnicas
-
-Objetivo:
-
-Generar fluidez profesional.
+Comprender inglés real de forma progresiva sin depender de traducción constante.
 
 ---
 
-##### 10% Vocabulario
+### Temáticas Prioritarias
 
-Actividades:
+#### Profesional
 
-* registrar términos nuevos
-* crear glosario técnico
-* reutilizar palabras aprendidas
-
-Objetivo:
-
-Expandir vocabulario de forma contextual.
+* operaciones industriales
+* mantenimiento
+* minería
+* manufactura
+* mejora continua
+* Power BI
+* Power Query
+* liderazgo
+* gestión de proyectos
+* seguridad industrial
 
 ---
 
-#### Regla Operacional
+#### Profesional General
 
-Nunca estudiar listas aisladas de palabras.
+* entrevistas laborales
+* reuniones corporativas
+* presentaciones
+* productividad
+* tecnología
+* gestión de equipos
+* comunicación profesional
 
-El vocabulario debe provenir de:
+---
 
-* videos
-* reuniones
+#### General
+
+* actualidad
+* ciencia
+* historia
+* economía
+* documentales
+* conversaciones cotidianas
+
+---
+
+### Regla
+
+No limitarse únicamente a contenido técnico.
+
+La exposición debe incluir contextos variados para desarrollar comprensión global del idioma.
+
+---
+
+## SHADOWING
+
+### Objetivo
+
+Mejorar pronunciación, fluidez y comprensión auditiva simultáneamente.
+
+---
+
+### Metodología
+
+Utilizar contenido con subtítulos en inglés.
+
+Proceso:
+
+1. Escuchar una frase.
+2. Repetir inmediatamente después del hablante.
+3. Copiar pronunciación.
+4. Copiar ritmo.
+5. Copiar entonación.
+6. Evitar traducir mentalmente palabra por palabra.
+
+---
+
+### Enfoque
+
+La prioridad no es sonar perfecto.
+
+La prioridad es acostumbrar el oído al inglés real y automatizar la producción oral.
+
+---
+
+## SPEAKING
+
+### Objetivo
+
+Desarrollar capacidad de explicación profesional.
+
+---
+
+### Actividades
+
+Explicar oralmente:
+
+* KPIs
 * dashboards
-* casos industriales
-* documentación real
+* proyectos
+* análisis operacionales
+* problemas de negocio
+* experiencias laborales
+* temas de interés personal
 
 ---
 
-#### Entregable Semanal Obligatorio
+### Regla
 
-Cada semana generar:
+No buscar perfección gramatical.
 
-* 1 resumen técnico en inglés
-* 1 ejercicio de shadowing
-* 1 explicación oral de KPI o dashboard
-* registro de nuevo vocabulario aprendido
+Priorizar:
+
+* claridad
+* fluidez
+* capacidad de comunicación
 
 ---
 
-#### Indicadores de Progreso
+## EVIDENCIA SEMANAL
 
-Nivel 1:
-Comprende videos con subtítulos.
+Cada semana debe existir evidencia de:
 
-Nivel 2:
-Comprende videos técnicos sin pausar constantemente.
+* mínimo 3 sesiones de listening
+* mínimo 2 sesiones de shadowing
+* 1 explicación oral breve
 
-Nivel 3:
-Explica KPIs simples.
+La explicación oral puede tratar sobre:
 
-Nivel 4:
-Presenta dashboards.
+* KPI
+* dashboard
+* proyecto
+* tema profesional
+* tema general
 
-Nivel 5:
-Participa en reuniones técnicas y entrevistas.
+---
 
+## INDICADORES DE PROGRESO
+
+### Nivel 1
+
+Comprende contenido con subtítulos.
+
+---
+
+### Nivel 2
+
+Comprende contenido técnico con apoyo ocasional de subtítulos.
+
+---
+
+### Nivel 3
+
+Comprende contenido profesional sin necesidad constante de pausas.
+
+---
+
+### Nivel 4
+
+Explica proyectos y dashboards de forma fluida.
+
+---
+
+### Nivel 5
+
+Participa con comodidad en reuniones e entrevistas profesionales en inglés.
+
+---
+
+## CRITERIO DE ÉXITO DEL ROADMAP
+
+Al finalizar el roadmap el usuario debe ser capaz de:
+
+* explicar proyectos realizados
+* presentar dashboards
+* explicar KPIs
+* describir problemas operacionales
+* participar en entrevistas laborales
+* sostener conversaciones profesionales relacionadas con industria y analítica
 
 ---
 

@@ -48,7 +48,7 @@ Semana activa:
 
 Día activo:
 
-3
+10
 
 ---
 
@@ -154,6 +154,8 @@ Habilidades validadas:
 - Filtrado por criterios operacionales
 - Comprensión de flujo ETL
 - Diferenciación entre transformación y filtrado
+- Implementación básica de funciones personalizadas
+- Invocación de funciones sobre columnas
 
 ---
 
@@ -171,7 +173,161 @@ Sin bloqueadores registrados.
 
 # ENTREGABLES COMPLETADOS
 
-Sin entregables registrados.
+## ENT-001
+
+Nombre:
+Primer flujo ETL de limpieza y filtrado
+
+Herramienta:
+Power Query
+
+Proyecto:
+Entrenamiento ETL
+
+Fecha:
+2026-06
+
+Resultado:
+Validado
+
+Repositorio:
+power_query/
+
+Impacto:
+- Normalización de datos
+- Tipificación de columnas
+- Filtrado por criterios operacionales
+- Comprensión del concepto de proceso repetible
+
+## ENT-002
+
+Nombre:
+Consolidación histórica mediante Append
+
+Herramienta:
+Power Query
+
+Proyecto:
+Produccion Flotacion
+
+Fecha:
+2026-06
+
+Resultado:
+Validado
+
+Repositorio:
+power_query/S02_D06_Append_Historico.xlsx
+
+Impacto:
+* Comprensión de Append
+* Consolidación histórica
+* Validación de estructura homogénea
+* Introducción a históricos operacionales
+
+## ENT-003
+
+Nombre:
+Enriquecimiento de datos mediante Merge
+
+Herramienta:
+Power Query
+
+Proyecto:
+OT + Equipos
+
+Fecha:
+2026-06
+
+Resultado:
+Validado
+
+Repositorio:
+power_query/S02_D07_Merge_Equipos.xlsx
+
+Impacto:
+* Comprensión de Merge
+* Uso de llaves comunes
+* Enriquecimiento de tablas
+* Introducción a modelos relacionales
+
+## ENT-004
+
+Nombre:
+Consolidación automática mediante Folder Import
+
+Herramienta:
+Power Query
+
+Proyecto:
+Produccion Flotacion Historica
+
+Fecha:
+2026-06
+
+Resultado:
+Validado
+
+Repositorio:
+power_query/S02_D08_Folder_Import.xlsx
+
+Impacto:
+* Comprensión de Folder Import
+* Automatización de históricos
+* Escalabilidad ETL
+* Incorporación automática de nuevos archivos
+
+## ENT-005
+
+Nombre:
+Folder Import parametrizado
+
+Herramienta:
+Power Query
+
+Proyecto:
+Produccion Flotacion Historica
+
+Fecha:
+2026-06
+
+Resultado:
+Validado
+
+Repositorio:
+power_query/S02_D09_Parametros.xlsx
+
+Impacto:
+* Eliminación de rutas rígidas
+* ETL reutilizable
+* Configuración mediante parámetros
+* Mayor robustez y portabilidad
+
+## ENT-006
+
+Nombre:
+Función personalizada de normalización
+
+Herramienta:
+Power Query
+
+Proyecto:
+Funciones básicas
+
+Fecha:
+2026-06
+
+Resultado:
+Validado
+
+Repositorio:
+power_query/S02_D10_Funciones.xlsx
+
+Impacto:
+* Implementación de funciones personalizadas
+* Invocación de funciones sobre columnas
+* Reutilización de lógica ETL
+* Introducción a modularidad en Power Query
 
 ---
 
@@ -380,6 +536,34 @@ Activo
 
 ---
 
+# ESTÁNDAR DE REGISTRO OPERACIONAL
+
+Formato vigente:
+
+## LOG_SXX_DXX
+
+Donde:
+
+SXX = Sesion del roadmap
+
+DXX = Día del roadmap
+
+Ejemplos:
+
+## LOG_S01_D01
+
+## LOG_S01_D07
+
+## LOG_S02_D03
+
+## LOG_S05_D04
+
+Los registros anteriores mantienen su formato original por razones de trazabilidad histórica.
+
+Todo nuevo registro deberá utilizar exclusivamente el formato LOG_SXX_DXX.
+
+---
+
 # HISTORIAL OPERACIONAL
 
 ## LOG-2026-06-02-001
@@ -491,15 +675,15 @@ La documentación y trazabilidad deben existir desde el inicio del proyecto.
 
 Debe existir evidencia validada de:
 
-□ Append
+✓ Append
 
-□ Merge
+✓ Merge
 
-□ Folder Import
+✓ Folder Import
 
-□ Parámetros
+✓ Parámetros
 
-□ Funciones básicas
+✓ Funciones básicas
 
 □ ETL reutilizable
 
@@ -699,3 +883,114 @@ Próximo paso:
 
 - Ordenamiento y priorización de datos.
 - Introducción a Append.
+
+
+Actividad realizada:
+Consolidación histórica de producción mediante Append.
+
+## LOG_S01_D06
+
+Aprendizajes:
+* Diferencia conceptual entre Append y Merge.
+* Append agrega filas.
+* La consolidación histórica permite análisis de tendencia.
+* Power Query trabaja sobre procesos y no sobre filas individuales.
+
+Evidencia generada:
+ENT-002 Consolidación histórica mediante Append.
+
+Próximo paso:
+Merge de tablas mediante llaves comunes.
+
+Actividad realizada:
+Relación de tablas mediante Merge utilizando información de equipos.
+
+## LOG_S01_D07
+
+Aprendizajes:
+* Diferencia entre Append y Merge.
+* Merge agrega columnas y no filas.
+* Importancia de las llaves comunes.
+* Separación entre datos transaccionales y datos maestros.
+
+Evidencia generada:
+ENT-003 Enriquecimiento de datos mediante Merge.
+
+Próximo paso:
+Folder Import y automatización de consolidación histórica.
+
+## LOG_S01_D08
+
+Actividad realizada:
+Implementación de Folder Import para consolidación automática de archivos históricos.
+
+Aprendizajes:
+* Diferencia entre Append y Folder Import.
+* Folder Import automatiza la incorporación de nuevos archivos.
+* Power Query puede trabajar a nivel de carpeta y no solo de archivos individuales.
+* La automatización reduce trabajo manual y mejora escalabilidad.
+
+Evidencia generada:
+ENT-004 Consolidación automática mediante Folder Import.
+
+Próximo paso:
+Introducción a parámetros y rutas dinámicas.
+
+## LOG_S01_D09
+
+Actividad realizada:
+Implementación de parámetros para desacoplar rutas físicas del proceso ETL.
+
+Aprendizajes:
+* Diferencia entre valores fijos y parámetros.
+* Configuración centralizada de rutas.
+* Mejora de portabilidad y mantenimiento.
+* ETL reutilizable entre distintos entornos.
+
+Evidencia generada:
+ENT-005 Folder Import parametrizado.
+
+Próximo paso:
+Funciones básicas y construcción de Tabla Maestra Operacional.
+
+## LOG_S01_D10
+
+Fecha:
+
+2026-06
+
+Fase:
+
+FASE 1 — Power Query + ETL Operacional
+
+Semana:
+
+1
+
+Día:
+
+10
+
+Actividad realizada:
+
+Implementación de función personalizada para normalización de identificadores.
+
+Aprendizajes:
+
+* Creación de funciones personalizadas en Power Query.
+* Invocación de funciones sobre columnas.
+* Encapsulamiento de lógica ETL.
+* Reutilización de transformaciones.
+
+Observaciones:
+
+* Se reconoce conocimiento previo de modularidad proveniente de programación.
+* El ejemplo utilizado permitió comprender la implementación, aunque el valor práctico aún es limitado por la simplicidad del caso.
+
+Evidencia generada:
+
+* ENT-006
+
+Próximo paso:
+
+Construcción de Tabla Maestra Operacional.
